@@ -1,0 +1,1002 @@
+{
+  "KR-LANG-001": {
+    "korean_original": "큰 고추를 좋아해요.",
+    "meaning_zh": "我喜欢大辣椒。",
+    "meaning_en": "I like big peppers.",
+    "reason_zh": "고추通常是辣椒，也能作为男性生殖器的委婉或儿童化说法。食物语境很正常，但在没有上下文的私聊里，큰 고추容易产生成人双关。",
+    "reason_en": "고추 normally means pepper, but it can also be a euphemistic or childish word for male genitals. It is normal in food contexts, while 큰 고추 can sound suggestive in a context-free DM.",
+    "cover_zh": "大辣椒还是男人的那里？",
+    "cover_en": "Big pepper or male anatomy?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "큰 고추를 좋아해요.",
+          "en": "I like big peppers."
+        },
+        {
+          "role": "对方",
+          "zh": "先等等。你是在说做饭，对吧？",
+          "en": "Wait. You mean for cooking, right?"
+        },
+        {
+          "role": "我",
+          "zh": "不然呢？我今天在学食物。",
+          "en": "What else? I’m studying food today."
+        },
+        {
+          "role": "对方",
+          "zh": "고추是辣椒，但也能委婉指男人那里。",
+          "en": "고추 means pepper, but it can also be a euphemism for a man’s private part."
+        },
+        {
+          "role": "我",
+          "zh": "所以我刚刚像在宣布个人偏好？",
+          "en": "So I just sounded like I was announcing a preference?"
+        },
+        {
+          "role": "对方",
+          "zh": "在没有食物语境的私信里，有一点ㅋㅋㅋ",
+          "en": "In a DM with no food context, a little ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "我的食物作业怎么突然这么危险。",
+          "en": "How did my food homework get this dangerous?"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "고추 사진 좀 보내 줘.",
+          "en": "Send me a picture of a pepper."
+        },
+        {
+          "role": "对方",
+          "zh": "请在后面加上“做菜用的”ㅋㅋㅋ",
+          "en": "Please add “for cooking” to that ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "为什么？我只是想确认辣椒的大小。",
+          "en": "Why? I just want to check the size of the pepper."
+        },
+        {
+          "role": "对方",
+          "zh": "你每解释一次，听起来都更危险。",
+          "en": "Every explanation makes it sound more dangerous."
+        },
+        {
+          "role": "我",
+          "zh": "等一下，고추还有别的意思？",
+          "en": "Wait, does 고추 have another meaning?"
+        },
+        {
+          "role": "对方",
+          "zh": "有，但只有特定语境才会往成人方向理解。",
+          "en": "Yes, but it only gets the adult reading in certain contexts."
+        },
+        {
+          "role": "我",
+          "zh": "好。我要的是超市版，不是限制级版。",
+          "en": "Okay. I want the grocery-store version, not the rated version."
+        }
+      ]
+    ]
+  },
+  "KR-LANG-002": {
+    "korean_original": "오늘 코피 마셨어.",
+    "meaning_zh": "我今天喝了鼻血。",
+    "meaning_en": "I drank a nosebleed today.",
+    "reason_zh": "커피是咖啡，코피是鼻血。两者并不完全同音，但初学者如果把元音说错，就可能把喝咖啡说成喝鼻血。",
+    "reason_en": "커피 means coffee and 코피 means a nosebleed. They are not identical, but a learner who changes the vowel can accidentally say they drank a nosebleed.",
+    "cover_zh": "咖啡还是鼻血？",
+    "cover_en": "Coffee or a nosebleed?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "오늘 코피 마셨어.",
+          "en": "I drank a nosebleed today."
+        },
+        {
+          "role": "对方",
+          "zh": "你喝了什么？",
+          "en": "You drank what?"
+        },
+        {
+          "role": "我",
+          "zh": "咖啡啊。很正常。",
+          "en": "Coffee. Very normal."
+        },
+        {
+          "role": "对方",
+          "zh": "咖啡是커피。你刚说的是코피，鼻血。",
+          "en": "Coffee is 커피. You said 코피, a nosebleed."
+        },
+        {
+          "role": "我",
+          "zh": "只差一个元音，早餐就变恐怖片了？",
+          "en": "One vowel turned breakfast into a horror movie?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。所以是커，不是코ㅋㅋㅋ",
+          "en": "Yes. So it’s 커, not 코 ㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我刚录了韩语日记：매일 코피를 마셔요.",
+          "en": "I recorded my Korean diary: 매일 코피를 마셔요."
+        },
+        {
+          "role": "对方",
+          "zh": "不要发布。",
+          "en": "Do not post that."
+        },
+        {
+          "role": "我",
+          "zh": "为什么？每天喝咖啡很普通吧。",
+          "en": "Why? Drinking coffee every day is normal."
+        },
+        {
+          "role": "对方",
+          "zh": "你说的是“我每天喝鼻血”。",
+          "en": "You said, “I drink nosebleeds every day.”"
+        },
+        {
+          "role": "我",
+          "zh": "커피。커피。这样？",
+          "en": "커피. 커피. Like this?"
+        },
+        {
+          "role": "对方",
+          "zh": "现在是咖啡了。可以发了。",
+          "en": "Now it’s coffee. You can post it."
+        }
+      ]
+    ]
+  },
+  "KR-LANG-003": {
+    "korean_original": "십팔",
+    "meaning_zh": "十八。",
+    "meaning_en": "Eighteen.",
+    "reason_zh": "십팔是十八，씨발是冒犯性很强的脏话。两者并非同音，但辅音紧张度、元音或收音说不清时，初学者容易制造危险误听。",
+    "reason_en": "십팔 means eighteen, while 씨발 is a very strong swear word. They are not identical, but unclear consonants, vowels, or final sounds can create a risky mishearing.",
+    "cover_zh": "十八还是韩语脏话？",
+    "cover_en": "Eighteen or a Korean swear?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "听我的数数语音：열일곱, 씨발, 열아홉.",
+          "en": "Listen to my counting: 열일곱, 씨발, 열아홉."
+        },
+        {
+          "role": "对方",
+          "zh": "你从十七直接数到骂人了。",
+          "en": "You went from seventeen straight to swearing."
+        },
+        {
+          "role": "我",
+          "zh": "我说的是十八！",
+          "en": "I said eighteen!"
+        },
+        {
+          "role": "对方",
+          "zh": "十八是십팔。你刚才的开头太用力了。",
+          "en": "Eighteen is 십팔. Your opening sound was way too tense."
+        },
+        {
+          "role": "我",
+          "zh": "所以我不是数错了，是直接骂人了？",
+          "en": "So I didn’t count wrong. I just started swearing?"
+        },
+        {
+          "role": "对方",
+          "zh": "我还在。再数一次，慢一点ㅋㅋㅋ",
+          "en": "I’m still here. Count again, slowly ㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "为什么我说십팔时，语音识别一直打出脏话？",
+          "en": "Why does speech recognition keep typing a swear when I say 십팔?"
+        },
+        {
+          "role": "对方",
+          "zh": "因为你把两个词的发音混在一起了。",
+          "en": "Because you blended the pronunciation of two different words."
+        },
+        {
+          "role": "我",
+          "zh": "但我只是想说房间号十八。",
+          "en": "I only wanted to say room eighteen."
+        },
+        {
+          "role": "对方",
+          "zh": "那就把십和팔分清楚，别把中间吞掉。",
+          "en": "Then keep 십 and 팔 clear. Don’t swallow the middle."
+        },
+        {
+          "role": "我",
+          "zh": "韩语数字为什么自带危险模式？",
+          "en": "Why do Korean numbers have a danger mode?"
+        },
+        {
+          "role": "对方",
+          "zh": "数字没有。你的发音有。",
+          "en": "The numbers don’t. Your pronunciation does."
+        }
+      ]
+    ]
+  },
+  "KR-LANG-004": {
+    "korean_original": "니가 먼저 말했잖아.",
+    "meaning_zh": "明明是你先说的。",
+    "meaning_en": "You said it first.",
+    "reason_zh": "니가是口语中常见的“你”加主格标记。英语母语者可能把声音误听成 N-word，但韩语原词没有种族含义。",
+    "reason_en": "니가 is a common colloquial form of “you” with a subject marker. English speakers may mishear the sound as the N-word, but the Korean word has no racial meaning.",
+    "cover_zh": "YOU还是N-WORD？",
+    "cover_en": "YOU or the N-word?",
+    "variants": [
+      [
+        {
+          "role": "对方",
+          "zh": "니가 먼저 말했잖아.",
+          "en": "You said it first."
+        },
+        {
+          "role": "我",
+          "zh": "等一下。你刚才说了英语里的那个禁词吗？",
+          "en": "Wait. Did you just say that forbidden word in English?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有。我说니가，就是“你”。",
+          "en": "No. I said 니가. It means “you.”"
+        },
+        {
+          "role": "我",
+          "zh": "我的英语耳朵刚刚拉响警报了。",
+          "en": "My English ears just set off an alarm."
+        },
+        {
+          "role": "对方",
+          "zh": "可以警觉，但别把韩语词当成英语骂人。",
+          "en": "You can be alert, but don’t treat a Korean word as an English slur."
+        },
+        {
+          "role": "我",
+          "zh": "明白。今天的问题是我的耳朵，不是你。",
+          "en": "Got it. Today the problem is my ears, not you."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "韩剧字幕写“you”，但我听到的完全不是you。",
+          "en": "The drama subtitle says “you,” but I heard something very different."
+        },
+        {
+          "role": "对方",
+          "zh": "是不是니가？",
+          "en": "Was it 니가?"
+        },
+        {
+          "role": "我",
+          "zh": "对。我还以为演员突然在说英语脏话。",
+          "en": "Yes. I thought the actor suddenly used an English slur."
+        },
+        {
+          "role": "对方",
+          "zh": "不用处理。니가在韩语里只是“你”。",
+          "en": "Nothing to control. 니가 just means “you” in Korean."
+        },
+        {
+          "role": "我",
+          "zh": "两个语言碰在一起，耳朵先误会了。",
+          "en": "Two languages collided and my ears misunderstood first."
+        },
+        {
+          "role": "对方",
+          "zh": "至少你先问了，没有直接取消整部剧ㅋㅋㅋ",
+          "en": "At least you asked before canceling the whole drama ㅋㅋㅋ"
+        }
+      ]
+    ]
+  },
+  "KR-LANG-005": {
+    "korean_original": "개새끼",
+    "meaning_zh": "非常强烈的韩语侮辱语。",
+    "meaning_en": "A very strong Korean insult.",
+    "reason_zh": "部分英语母语者会把개새끼的连续音节听成“gay sexy”。这只是跨语言听感梗，不是翻译、词源或标准发音说明。",
+    "reason_en": "Some English speakers jokingly hear 개새끼 as “gay sexy.” That is only a cross-language mishearing, not a translation, origin, or standard pronunciation guide.",
+    "cover_zh": "GAY SEXY还是在骂人？",
+    "cover_en": "“Gay sexy” or a serious insult?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "韩剧里两个人打架，为什么突然有人说“gay sexy”？",
+          "en": "Two people were fighting in a drama. Why did someone suddenly say “gay sexy”?"
+        },
+        {
+          "role": "对方",
+          "zh": "他没有。他说的是개새끼。",
+          "en": "He didn’t. He said 개새끼."
+        },
+        {
+          "role": "我",
+          "zh": "那是什么意思？",
+          "en": "What does that mean?"
+        },
+        {
+          "role": "对方",
+          "zh": "很重的骂人话。千万别当成可爱的英语谐音。",
+          "en": "It’s a strong insult. Do not treat the cute English mishearing as its meaning."
+        },
+        {
+          "role": "我",
+          "zh": "我的耳朵把吵架听成了派对。",
+          "en": "My ears turned a fight into a party."
+        },
+        {
+          "role": "对方",
+          "zh": "字幕救了你。相信字幕这一次。",
+          "en": "The subtitles saved you. Trust them this time."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我学到一个听起来像“gay sexy”的韩语词。",
+          "en": "I learned a Korean word that sounds like “gay sexy” to me."
+        },
+        {
+          "role": "对方",
+          "zh": "先别发语音。我大概知道是哪一个。",
+          "en": "Don’t send a voice note yet. I think I know which one."
+        },
+        {
+          "role": "我",
+          "zh": "개새끼？",
+          "en": "개새끼?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，而且那是很严重的侮辱语。",
+          "en": "Yes, and it is a very serious insult."
+        },
+        {
+          "role": "我",
+          "zh": "所以它既不gay，也不sexy。",
+          "en": "So it is neither gay nor sexy."
+        },
+        {
+          "role": "对方",
+          "zh": "正确。只有你的英语耳朵很有创造力。",
+          "en": "Correct. Only your English ears are being creative."
+        }
+      ]
+    ]
+  },
+  "KR-LANG-006": {
+    "korean_original": "보지 마.",
+    "meaning_zh": "不要看。",
+    "meaning_en": "Don’t look.",
+    "reason_zh": "在보지 마中，보지来自动词보다加语法形式-지，整句完全正常。只有把보지单独当名词时，它才可能是粗俗的女性生殖器说法。",
+    "reason_en": "In 보지 마, 보지 comes from the verb 보다 plus the grammar form -지, so the full phrase is completely normal. As a standalone noun, 보지 can be a vulgar word for female genitals.",
+    "cover_zh": "别看还是成人词？",
+    "cover_en": "“Don’t look” or an adult word?",
+    "variants": [
+      [
+        {
+          "role": "对方",
+          "zh": "我发错截图了。보지 마.",
+          "en": "I sent the wrong screenshot. 보지 마."
+        },
+        {
+          "role": "我",
+          "zh": "太晚了，而且我刚查了보지。",
+          "en": "Too late, and I just looked up 보지."
+        },
+        {
+          "role": "对方",
+          "zh": "你是不是把句子拆错了？",
+          "en": "Did you split the sentence wrong?"
+        },
+        {
+          "role": "我",
+          "zh": "词典给了我一个很不适合截图的话题。",
+          "en": "The dictionary gave me a topic that does not fit the screenshot."
+        },
+        {
+          "role": "对方",
+          "zh": "보지 마整体就是“别看”。这里不是那个名词。",
+          "en": "보지 마 as a whole means “don’t look.” It is not that noun here."
+        },
+        {
+          "role": "我",
+          "zh": "我不仅看了截图，还看了不该点的词典解释。",
+          "en": "I saw the screenshot and the dictionary entry I should not have opened."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "为什么“不要看”里面有一个成人词？",
+          "en": "Why does “don’t look” contain an adult word?"
+        },
+        {
+          "role": "对方",
+          "zh": "因为你把보지 마从错误的位置切开了。",
+          "en": "Because you split 보지 마 in the wrong place."
+        },
+        {
+          "role": "我",
+          "zh": "所以韩国人说这句时没有在开黄腔？",
+          "en": "So Koreans are not making an adult joke when they say it?"
+        },
+        {
+          "role": "对方",
+          "zh": "完全没有。就是普通的“别看”。",
+          "en": "Not at all. It is simply “don’t look.”"
+        },
+        {
+          "role": "我",
+          "zh": "真正不该看的，是我刚才的搜索记录。",
+          "en": "The thing I should not look at is my recent search history."
+        },
+        {
+          "role": "对方",
+          "zh": "这次我同意。보지 마ㅋㅋㅋ",
+          "en": "This time I agree. 보지 마 ㅋㅋㅋ"
+        }
+      ]
+    ]
+  },
+  "KR-LANG-007": {
+    "korean_original": "나비의 변태 과정",
+    "meaning_zh": "蝴蝶的变态发育过程。",
+    "meaning_en": "The metamorphosis process of a butterfly.",
+    "reason_zh": "변태在生物学中可以表示变态或变态发育；日常用来称呼一个人时，通常是“变态、色狼”的侮辱性说法。",
+    "reason_en": "변태 can mean metamorphosis in biology. In everyday speech, calling a person 변태 usually means “pervert” and is insulting.",
+    "cover_zh": "毛毛虫还是变态？",
+    "cover_en": "Caterpillar or pervert?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我的韩语课写着나비의 변태 과정。",
+          "en": "My Korean lesson says 나비의 변태 과정."
+        },
+        {
+          "role": "我",
+          "zh": "为什么蝴蝶是变态？",
+          "en": "Why is the butterfly a pervert?"
+        },
+        {
+          "role": "对方",
+          "zh": "在生物课里，변태是“变态发育”。",
+          "en": "In biology, 변태 means “metamorphosis.”"
+        },
+        {
+          "role": "我",
+          "zh": "那我可以叫你변태吗？你也会成长。",
+          "en": "Then can I call you 변태? You also grow."
+        },
+        {
+          "role": "对方",
+          "zh": "不可以。对人说通常就是“变态”。",
+          "en": "No. When you say it to a person, it usually means “pervert.”"
+        },
+        {
+          "role": "我",
+          "zh": "明白。只尊重蝴蝶的科学身份。",
+          "en": "Got it. I will respect the butterfly’s scientific identity only."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "词典说변태既是metamorphosis，也是pervert。",
+          "en": "The dictionary says 변태 is both metamorphosis and pervert."
+        },
+        {
+          "role": "对方",
+          "zh": "对，语境负责救场。",
+          "en": "Yes. Context does the rescue work."
+        },
+        {
+          "role": "我",
+          "zh": "如果我只发“너 변태야”，还有科学可能吗？",
+          "en": "If I only text “너 변태야,” is there any scientific possibility?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有。那就是在骂我变态。",
+          "en": "No. That means you are calling me a pervert."
+        },
+        {
+          "role": "我",
+          "zh": "好的，科学解释被你亲手关闭了。",
+          "en": "Okay. You personally closed the scientific interpretation."
+        },
+        {
+          "role": "对方",
+          "zh": "因为我不是毛毛虫。",
+          "en": "Because I am not a caterpillar."
+        }
+      ]
+    ]
+  },
+  "KR-LANG-008": {
+    "korean_original": "이거 싸 주세요.",
+    "meaning_zh": "请把这个包起来。",
+    "meaning_en": "Please wrap this up.",
+    "reason_zh": "在购物语境中，有明确商品宾语的이거 싸 주세요是正常表达。싸다也有排泄以及粗俗成人含义，所以把宾语和场景删掉后，单独发싸 주세요可能变得尴尬。",
+    "reason_en": "In a shopping context, 이거 싸 주세요 with a clear item means “please wrap this.” 싸다 can also refer to excretion and has a vulgar adult meaning, so removing the object and context can make 싸 주세요 awkward.",
+    "cover_zh": "包装还是成人请求？",
+    "cover_en": "Wrap it or an adult request?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "语言软件教我说싸 주세요。",
+          "en": "My language app taught me to say 싸 주세요."
+        },
+        {
+          "role": "对方",
+          "zh": "它有没有先给你一个商品？",
+          "en": "Did it give you an item first?"
+        },
+        {
+          "role": "我",
+          "zh": "有一盒礼物。为什么？",
+          "en": "There was a gift box. Why?"
+        },
+        {
+          "role": "对方",
+          "zh": "那이거 싸 주세요就是“请包起来”，很正常。",
+          "en": "Then 이거 싸 주세요 means “please wrap this,” and it is normal."
+        },
+        {
+          "role": "我",
+          "zh": "如果我只发싸 주세요呢？",
+          "en": "What if I only text 싸 주세요?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有商品和场景，就可能出现非常不购物的理解。",
+          "en": "Without an item or context, it can get a very non-shopping interpretation."
+        },
+        {
+          "role": "我",
+          "zh": "懂了。以后我把이거一起说。",
+          "en": "Got it. I’ll keep 이거 in the sentence."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "이거 싸 주세요. 这是“请打包”对吧？",
+          "en": "이거 싸 주세요. That means “please wrap this,” right?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，在商店里拿着东西说就对。",
+          "en": "Yes, when you say it in a store while indicating an item."
+        },
+        {
+          "role": "我",
+          "zh": "朋友说千万不要只说后面三个字。",
+          "en": "A friend said never say only the last three syllables."
+        },
+        {
+          "role": "对方",
+          "zh": "不是绝对不能说，是没有上下文会很怪。",
+          "en": "It is not absolutely forbidden. It just sounds strange without context."
+        },
+        {
+          "role": "我",
+          "zh": "韩语：请携带商品使用。",
+          "en": "Korean: use only while carrying merchandise."
+        },
+        {
+          "role": "对方",
+          "zh": "这条安全提示我批准了ㅋㅋㅋ",
+          "en": "I approve that safety warning ㅋㅋㅋ"
+        }
+      ]
+    ]
+  },
+  "KR-LANG-009": {
+    "korean_original": "아아 마실래?",
+    "meaning_zh": "要喝冰美式吗？",
+    "meaning_en": "Do you want an iced Americano?",
+    "reason_zh": "아아是아이스 아메리카노的常见缩写，뜨아是뜨거운 아메리카노的缩写。아아同时很像连续发出“啊啊”的声音。",
+    "reason_en": "아아 commonly abbreviates 아이스 아메리카노, while 뜨아 abbreviates 뜨거운 아메리카노. 아아 also looks like someone repeatedly saying “ah.”",
+    "cover_zh": "在哭还是点咖啡？",
+    "cover_en": "Crying or ordering coffee?",
+    "variants": [
+      [
+        {
+          "role": "对方",
+          "zh": "아아 마실래?",
+          "en": "Do you want an iced Americano?"
+        },
+        {
+          "role": "我",
+          "zh": "你为什么突然惨叫？",
+          "en": "Why did you suddenly scream?"
+        },
+        {
+          "role": "对方",
+          "zh": "我没有惨叫。我在说冰美式。",
+          "en": "I didn’t scream. I said iced Americano."
+        },
+        {
+          "role": "我",
+          "zh": "아아是咖啡？",
+          "en": "아아 is coffee?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，아이스 아메리카노的缩写。",
+          "en": "Yes. It is short for 아이스 아메리카노."
+        },
+        {
+          "role": "我",
+          "zh": "아아아아아아。",
+          "en": "아아아아아아."
+        },
+        {
+          "role": "对方",
+          "zh": "你这是点六杯，还是需要帮助？",
+          "en": "Are you ordering six cups, or do you need help?"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我知道了。아아是冰的，뜨아是热的。",
+          "en": "I got it. 아아 is iced and 뜨아 is hot."
+        },
+        {
+          "role": "对方",
+          "zh": "今天学得很快。",
+          "en": "You are learning fast today."
+        },
+        {
+          "role": "我",
+          "zh": "那如果我很累，可以发아아吗？",
+          "en": "Then if I’m exhausted, can I text 아아?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以，但我会先问你要咖啡还是救援。",
+          "en": "Yes, but I will ask whether you want coffee or rescue first."
+        },
+        {
+          "role": "我",
+          "zh": "韩国聊天需要饮料识别系统。",
+          "en": "Korean chat needs a beverage detection system."
+        },
+        {
+          "role": "对方",
+          "zh": "早上八点前默认都是咖啡。",
+          "en": "Before 8 a.m., assume it is coffee."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-001": {
+    "korean_original": "얼죽아",
+    "meaning_zh": "冻死也要喝冰美式。",
+    "meaning_en": "Iced Americano even if I freeze to death.",
+    "reason_zh": "얼죽아来自얼어 죽어도 아이스 아메리카노，是韩国网络中形容天气再冷也坚持喝冰美式的常见缩写，但不代表每个韩国人都这样。",
+    "reason_en": "얼죽아 shortens 얼어 죽어도 아이스 아메리카노 and describes choosing iced Americano even in freezing weather. It is a popular meme, not a rule for every Korean.",
+    "cover_zh": "零下还是喝冰的？",
+    "cover_en": "Below zero but still iced?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "你那边零下八度，为什么动态里还是冰咖啡？",
+          "en": "It’s minus eight there. Why is your story still an iced coffee?"
+        },
+        {
+          "role": "对方",
+          "zh": "얼죽아。",
+          "en": "얼죽아."
+        },
+        {
+          "role": "我",
+          "zh": "这是求救暗号吗？",
+          "en": "Is that a distress code?"
+        },
+        {
+          "role": "对方",
+          "zh": "是“冻死也要喝冰美式”的缩写。",
+          "en": "It is short for “iced Americano even if I freeze to death.”"
+        },
+        {
+          "role": "我",
+          "zh": "你可以喝热的，不需要证明什么。",
+          "en": "You can drink it hot. You have nothing to prove."
+        },
+        {
+          "role": "对方",
+          "zh": "我不是在证明。我只是在保持人格一致。",
+          "en": "I’m not proving anything. I’m maintaining character consistency."
+        }
+      ],
+      [
+        {
+          "role": "对方",
+          "zh": "今天很冷，但我还是얼죽아。",
+          "en": "It’s cold today, but I’m still 얼죽아."
+        },
+        {
+          "role": "我",
+          "zh": "我查到了完整意思。你们对冰块太忠诚了。",
+          "en": "I found the full meaning. You are too loyal to ice."
+        },
+        {
+          "role": "对方",
+          "zh": "不是所有韩国人，只是我们这群人。",
+          "en": "Not every Korean. Just people like us."
+        },
+        {
+          "role": "我",
+          "zh": "你说得像一个咖啡组织。",
+          "en": "You make it sound like a coffee organization."
+        },
+        {
+          "role": "对方",
+          "zh": "入会条件：冬天也不准改热饮。",
+          "en": "Membership rule: no switching to hot drinks in winter."
+        },
+        {
+          "role": "我",
+          "zh": "我选择活着，先不申请。",
+          "en": "I choose life, so I will not apply yet."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-001": {
+    "korean_original": "우리 남편",
+    "meaning_zh": "我老公，字面形式是“我们老公”。",
+    "meaning_en": "My husband, literally phrased as “our husband.”",
+    "reason_zh": "韩语常用우리指自己的家人、学校、公司甚至配偶，强调共同体归属。直译成英语时，容易让学习者误以为这个人是多人共享的。",
+    "reason_en": "Korean commonly uses 우리 for one’s family, school, company, and even spouse to express group belonging. A literal English reading can make the person sound shared.",
+    "cover_zh": "我的老公还是我们的老公？",
+    "cover_en": "My husband or our husband?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到一个韩国博主写우리 남편。",
+          "en": "I saw a Korean creator write 우리 남편."
+        },
+        {
+          "role": "我",
+          "zh": "为什么是“我们的老公”？还有谁？",
+          "en": "Why is it “our husband”? Who else is involved?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有别人ㅋㅋㅋ 韩语常用우리来称自己的家人。",
+          "en": "No one else ㅋㅋㅋ Korean often uses 우리 for one’s own family."
+        },
+        {
+          "role": "我",
+          "zh": "所以우리 남편实际可以是“我老公”？",
+          "en": "So 우리 남편 can actually mean “my husband”?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。是共同体表达，不是共享账号。",
+          "en": "Yes. It expresses belonging, not a shared account."
+        },
+        {
+          "role": "我",
+          "zh": "谢谢。韩剧家庭关系恢复正常了。",
+          "en": "Thank you. The drama’s family relationships are normal again."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "우리 엄마是“我们的妈妈”，对吗？",
+          "en": "우리 엄마 means “our mom,” right?"
+        },
+        {
+          "role": "对方",
+          "zh": "字面上像，但说话人通常是在说自己的妈妈。",
+          "en": "It looks literal, but the speaker is usually referring to their own mom."
+        },
+        {
+          "role": "我",
+          "zh": "那우리 회사也是“我的公司”？",
+          "en": "Then 우리 회사 is also “my company”?"
+        },
+        {
+          "role": "对方",
+          "zh": "更像“我们公司”。우리强调所属的群体。",
+          "en": "More like “our company.” 우리 emphasizes the group you belong to."
+        },
+        {
+          "role": "我",
+          "zh": "韩语的“我们”工作量也太大了。",
+          "en": "Korean “we” is doing a lot of work."
+        },
+        {
+          "role": "对方",
+          "zh": "我们谢谢它。你也开始会用了。",
+          "en": "We thank it. You are already learning how to use it."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-002": {
+    "korean_original": "밥 먹었어?",
+    "meaning_zh": "吃饭了吗？",
+    "meaning_en": "Did you eat?",
+    "reason_zh": "밥 먹었어?字面确实是在问吃饭，但熟人之间也常用它表达关心或自然开启聊天。具体是在问饭还是问候，要看关系和上下文。",
+    "reason_en": "밥 먹었어? literally asks whether someone ate, but close friends also use it to show care or open a conversation. Whether it is literal or social depends on context.",
+    "cover_zh": "问吃饭还是在关心你？",
+    "cover_en": "Asking about food or checking on you?",
+    "variants": [
+      [
+        {
+          "role": "对方",
+          "zh": "밥 먹었어?",
+          "en": "Did you eat?"
+        },
+        {
+          "role": "我",
+          "zh": "吃了。三明治、苹果，还有半袋薯片。",
+          "en": "Yes. A sandwich, an apple, and half a bag of chips."
+        },
+        {
+          "role": "对方",
+          "zh": "我只是随口关心一下ㅋㅋㅋ",
+          "en": "I was just casually checking on you ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "你问了，我就提交完整报告。",
+          "en": "You asked, so I submitted the full report."
+        },
+        {
+          "role": "对方",
+          "zh": "韩国朋友之间，这句话也可以只是开启聊天。",
+          "en": "Among Korean friends, this can also simply open a conversation."
+        },
+        {
+          "role": "我",
+          "zh": "明白。下次我只回答“吃了”，不交证据。",
+          "en": "Got it. Next time I’ll say “yes” without submitting evidence."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "你每天都问밥 먹었어? 你在统计我的饭吗？",
+          "en": "You ask 밥 먹었어? every day. Are you tracking my meals?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有，就是看看你有没有好好生活。",
+          "en": "No. I’m just checking whether you are taking care of yourself."
+        },
+        {
+          "role": "我",
+          "zh": "所以它有点像“你还好吗”？",
+          "en": "So it is a little like “are you doing okay”?"
+        },
+        {
+          "role": "对方",
+          "zh": "有时候是，但也可能真的在问你吃没吃。",
+          "en": "Sometimes, but it can also literally ask whether you ate."
+        },
+        {
+          "role": "我",
+          "zh": "韩语连关心都先检查碳水。",
+          "en": "Even Korean care checks your carbs first."
+        },
+        {
+          "role": "对方",
+          "zh": "你还有力气吐槽，看来吃过了。",
+          "en": "You still have energy to tease me, so I guess you ate."
+        }
+      ]
+    ]
+  },
+  "KR-MEME-001": {
+    "korean_original": "Are you open mindeu?",
+    "meaning_zh": "“你思想开放吗？”的韩式英语模仿说法。",
+    "meaning_en": "A parodied Korean-English way of saying “Are you open-minded?”",
+    "reason_zh": "这句话因Hongdae Guy网络角色走红，用来讽刺在弘大向外国女性搭讪的特定男性类型。它是网络模仿与安全争议中的梗，不代表所有韩国男性。",
+    "reason_en": "The phrase went viral through the Hongdae Guy character, parodying a specific type of man approaching foreign women in Hongdae. It is a meme tied to safety debates, not a description of all Korean men.",
+    "cover_zh": "普通英语还是弘大搭讪暗号？",
+    "cover_en": "Normal English or a Hongdae pickup line?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "为什么评论区都在刷“Are you open mindeu?”",
+          "en": "Why is everyone commenting “Are you open mindeu?”"
+        },
+        {
+          "role": "对方",
+          "zh": "你刷到Hongdae Guy了？",
+          "en": "Did you find the Hongdae Guy meme?"
+        },
+        {
+          "role": "我",
+          "zh": "对。我还以为大家突然开始练英语。",
+          "en": "Yes. I thought everyone suddenly started practicing English."
+        },
+        {
+          "role": "对方",
+          "zh": "那是在模仿一种对外国女生搭讪的男人。",
+          "en": "It parodies a type of man who approaches foreign women."
+        },
+        {
+          "role": "我",
+          "zh": "所以这句现在自带警报声？",
+          "en": "So the line now comes with an alarm sound?"
+        },
+        {
+          "role": "对方",
+          "zh": "在这个梗里，是的。但别拿它代表所有韩国男人。",
+          "en": "Inside this meme, yes. But don’t use it to represent every Korean man."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "Are you open mindeu?",
+          "en": "Are you open mindeu?"
+        },
+        {
+          "role": "对方",
+          "zh": "你为什么突然变成Hongdae Guy？",
+          "en": "Why did you suddenly become Hongdae Guy?"
+        },
+        {
+          "role": "我",
+          "zh": "我只是练英语。虽然这本来就是英语。",
+          "en": "I’m just practicing English, even though this is already English."
+        },
+        {
+          "role": "对方",
+          "zh": "现在它是一个很具体的网络梗，还带搭讪讽刺。",
+          "en": "Now it is a very specific meme with pickup-line satire attached."
+        },
+        {
+          "role": "我",
+          "zh": "那我下一句是不是“Do you live alone?”",
+          "en": "Then is my next line “Do you live alone?”"
+        },
+        {
+          "role": "对方",
+          "zh": "不是。你的下一句是“我停止模仿”。",
+          "en": "No. Your next line is “I will stop copying him.”"
+        },
+        {
+          "role": "我",
+          "zh": "I stop mindeu.",
+          "en": "I stop mindeu."
+        }
+      ]
+    ]
+  }
+}

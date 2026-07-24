@@ -54,14 +54,14 @@
 
 ## 每日工作流
 
-1. 读取 `materials.jsonl` 和 `素材索引.md`，先查重。
+1. 读取 `materials.jsonl`、`dialogues.json` 和 `素材索引.md`，先查重。
 2. 搜索 TikTok、Instagram、X、抖音、小红书，并补充 YouTube、Reddit、韩国论坛和媒体信号。
 3. 至少找到 1 条达到入库门槛的新素材。
 4. 保存原帖链接、可见互动量、发布时间、采集日期和评论争议点。
 5. 用韩国官方词典、韩国主流媒体或至少两个独立来源核验事实。
 6. 标注敏感性、刻板印象风险和容易写错的边界。
-7. 追加到 `materials.jsonl`，同步更新 `素材索引.md`。
-8. 在 `daily/日期.md` 留下搜索过的平台、未入库候选和淘汰原因。
+7. 追加到 `materials.jsonl`，并在 `dialogues.json` 为同一 ID 添加两版经过校对的双语聊天文案。
+8. 同步更新 `素材索引.md`，在 `daily/日期.md` 留下搜索过的平台、未入库候选和淘汰原因。
 
 ## 对话改编标准
 
@@ -71,10 +71,42 @@
 - 对话使用短句、停顿、追问、`ㅋㅋㅋ` 和朋友式互怼。
 - 每段提供中文和 English；韩语原句在标题下单独解释。
 - 不写线下共同活动，不默认暧昧；是否使用轻微成人感由具体选题决定。
+- 每条素材至少提供 2 个版本，每版 5-10 句，角色字段只使用 `我` 和 `对方`。
+- 封面最多三行：韩语关键词、中文 A 还是 B、English A or B。
+- 敏感词、脏话和成人双关必须写明成立语境，不得扩大为任何情况下都成立。
+
+## 文案蓝图格式
+
+`dialogues.json` 使用素材 ID 作为键。每条记录必须包含：
+
+```json
+{
+  "KR-LANG-001": {
+    "korean_original": "韩语原句",
+    "meaning_zh": "中文含义",
+    "meaning_en": "English meaning",
+    "reason_zh": "中文误会原因与语境边界",
+    "reason_en": "English explanation and context boundary",
+    "cover_zh": "A 还是 B？",
+    "cover_en": "A or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "中文消息",
+          "en": "English message"
+        }
+      ]
+    ]
+  }
+}
+```
+
+新增素材时，`materials.jsonl` 与 `dialogues.json` 的 ID 必须一一对应。提交前需要验证 JSON、版本数量、每版句数、角色字段和中英双语字段。
 
 ## 文件说明
 
 - `materials.jsonl`：机器可读的素材主库，一行一条 JSON。
+- `dialogues.json`：文案工坊使用的逐素材双语文案蓝图。
 - `素材索引.md`：人工浏览和选题使用的简表。
 - `daily/`：每日搜索记录、候选和淘汰项。
-

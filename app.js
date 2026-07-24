@@ -1,14 +1,23 @@
 const DATA_URL = "./韩国文化爆款素材库/materials.jsonl";
+const DIALOGUE_URL = "./韩国文化爆款素材库/dialogues.json";
 
 const state = {
   materials: [],
+  dialogues: {},
   category: "全部",
   query: "",
   sort: "priority",
   selectedId: null,
+  activeView: "library",
+  writerMaterialId: null,
+  writerVariantIndex: 0,
 };
 
 const elements = {
+  libraryMode: document.querySelector("#library-mode"),
+  writerMode: document.querySelector("#writer-mode"),
+  libraryView: document.querySelector("#library-view"),
+  writerView: document.querySelector("#writer-view"),
   materialCount: document.querySelector("#material-count"),
   updatedDate: document.querySelector("#updated-date"),
   searchInput: document.querySelector("#search-input"),
@@ -20,6 +29,12 @@ const elements = {
   detailPane: document.querySelector("#detail-pane"),
   detailContent: document.querySelector("#detail-content"),
   mobileBack: document.querySelector("#mobile-back"),
+  writerMaterialSelect: document.querySelector("#writer-material-select"),
+  generateScript: document.querySelector("#generate-script"),
+  nextScript: document.querySelector("#next-script"),
+  copyScript: document.querySelector("#copy-script"),
+  writerStatus: document.querySelector("#writer-status"),
+  scriptPreview: document.querySelector("#script-preview"),
 };
 
 const priorityOrder = { S: 0, A: 1, B: 2 };
@@ -58,17 +73,25 @@ function sourceLabel(url, index) {
 
 async function loadMaterials() {
   try {
-    const response = await fetch(DATA_URL, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+    const [materialsResponse, dialogueResponse] = await Promise.all([
+      fetch(DATA_URL, { cache: "no-store" }),
+      fetch(DIALOGUE_URL, { cache: "no-store" }),
+    ]);
+
+    if (!materialsResponse.ok) {
+      throw new Error(`Materials HTTP ${materialsResponse.status}`);
+    }
+    if (!dialogueResponse.ok) {
+      throw new Error(`Dialogues HTTP ${dialogueResponse.status}`);
     }
 
-    const text = await response.text();
+    const text = await materialsResponse.text();
     state.materials = text
       .split(/\r?\n/)
       .map((line) => line.trim())
       .filter(Boolean)
       .map((line) => JSON.parse(line));
+    state.dialogues = await dialogueResponse.json();
 
     const newestDate = [...state.materials]
       .map((material) => material.added_on)
@@ -81,6 +104,7 @@ async function loadMaterials() {
 
     renderCategories();
     renderList();
+    renderWriterOptions();
   } catch (error) {
     elements.resultCount.textContent = "素材加载失败";
     elements.materialList.innerHTML = "";
@@ -88,8 +112,275 @@ async function loadMaterials() {
     elements.emptyState.querySelector("strong").textContent = "暂时无法读取素材库";
     elements.emptyState.querySelector("span").textContent =
       "请刷新页面后重试。";
+    elements.writerMaterialSelect.innerHTML =
+      '<option value="">文案数据加载失败</option>';
+    elements.writerStatus.textContent = "暂时无法读取文案数据";
+    setWriterButtonsDisabled(true);
     console.error("Failed to load materials:", error);
   }
+}
+
+function setWriterButtonsDisabled(disabled) {
+  elements.generateScript.disabled = disabled;
+  elements.nextScript.disabled = disabled;
+  elements.copyScript.disabled = disabled;
+}
+
+function setView(view) {
+  state.activeView = view;
+  const isLibrary = view === "library";
+
+  elements.libraryView.hidden = !isLibrary;
+  elements.writerView.hidden = isLibrary;
+  elements.libraryMode.classList.toggle("is-active", isLibrary);
+  elements.writerMode.classList.toggle("is-active", !isLibrary);
+  elements.libraryMode.setAttribute("aria-selected", String(isLibrary));
+  elements.writerMode.setAttribute("aria-selected", String(!isLibrary));
+
+  if (isLibrary) {
+    elements.libraryMode.focus();
+  } else {
+    elements.writerMode.focus();
+  }
+}
+
+function renderWriterOptions() {
+  elements.writerMaterialSelect.innerHTML = "";
+
+  state.materials.forEach((material) => {
+    const option = document.createElement("option");
+    option.value = material.id;
+    option.textContent = `${material.keyword} · ${material.title_zh}`;
+    elements.writerMaterialSelect.appendChild(option);
+  });
+
+  const firstAvailable = state.materials.find(
+    (material) => state.dialogues[material.id],
+  );
+  if (!firstAvailable) {
+    elements.writerMaterialSelect.innerHTML =
+      '<option value="">暂无可用文案</option>';
+    elements.writerStatus.textContent = "素材尚未配置文案蓝图";
+    setWriterButtonsDisabled(true);
+    return;
+  }
+
+  state.writerMaterialId = firstAvailable.id;
+  elements.writerMaterialSelect.value = firstAvailable.id;
+  setWriterButtonsDisabled(false);
+}
+
+function openWriter(materialId) {
+  if (!state.dialogues[materialId]) return;
+
+  state.writerMaterialId = materialId;
+  state.writerVariantIndex = 0;
+  elements.writerMaterialSelect.value = materialId;
+  closeMobileDetail();
+  setView("writer");
+  renderScript();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function renderWriterPlaceholder(message = "选择一条素材开始写作") {
+  elements.writerStatus.textContent = message;
+  elements.scriptPreview.innerHTML = `
+    <div class="writer-placeholder">
+      <span class="placeholder-index">02</span>
+      <strong>聊天文案会出现在这里</strong>
+      <p>封面、韩语梗解释和双语聊天记录将保持同一事实边界。</p>
+    </div>
+  `;
+}
+
+function getCurrentScript() {
+  const blueprint = state.dialogues[state.writerMaterialId];
+  if (!blueprint?.variants?.length) return null;
+
+  const safeIndex = state.writerVariantIndex % blueprint.variants.length;
+  return {
+    blueprint,
+    variant: blueprint.variants[safeIndex],
+    variantIndex: safeIndex,
+  };
+}
+
+function renderScript() {
+  const current = getCurrentScript();
+  const material = state.materials.find(
+    (item) => item.id === state.writerMaterialId,
+  );
+
+  if (!current || !material) {
+    renderWriterPlaceholder("这条素材尚未配置文案");
+    elements.nextScript.disabled = true;
+    elements.copyScript.disabled = true;
+    return;
+  }
+
+  const { blueprint, variant, variantIndex } = current;
+  elements.nextScript.disabled = blueprint.variants.length < 2;
+  elements.copyScript.disabled = false;
+  elements.writerStatus.textContent = `${material.id} · 第 ${variantIndex + 1}/${blueprint.variants.length} 版 · ${variant.length} 句`;
+  elements.scriptPreview.innerHTML = "";
+
+  const cover = document.createElement("section");
+  cover.className = "cover-preview";
+  const coverLabel = document.createElement("span");
+  coverLabel.className = "script-section-label";
+  coverLabel.textContent = "封面文案 · 最多三行";
+  const keyword = document.createElement("strong");
+  keyword.className = "cover-keyword";
+  keyword.textContent = material.keyword;
+  const coverZh = document.createElement("span");
+  coverZh.className = "cover-question";
+  coverZh.textContent = blueprint.cover_zh;
+  const coverEn = document.createElement("span");
+  coverEn.className = "cover-question cover-question-en";
+  coverEn.textContent = blueprint.cover_en;
+  cover.append(coverLabel, keyword, coverZh, coverEn);
+
+  const explanation = document.createElement("section");
+  explanation.className = "script-explanation";
+  const explanationLabel = document.createElement("span");
+  explanationLabel.className = "script-section-label";
+  explanationLabel.textContent = "韩语梗解释";
+  explanation.appendChild(explanationLabel);
+
+  [
+    ["韩语原句", blueprint.korean_original],
+    ["中文含义", blueprint.meaning_zh],
+    ["English meaning", blueprint.meaning_en],
+  ].forEach(([label, value]) => {
+    explanation.appendChild(createExplanationRow(label, value));
+  });
+
+  const reason = document.createElement("div");
+  reason.className = "explanation-row explanation-reason";
+  const reasonLabel = document.createElement("strong");
+  reasonLabel.textContent = "双关或误会原因";
+  const reasonCopy = document.createElement("div");
+  const reasonZh = document.createElement("p");
+  reasonZh.textContent = blueprint.reason_zh;
+  const reasonEn = document.createElement("p");
+  reasonEn.className = "explanation-en";
+  reasonEn.textContent = blueprint.reason_en;
+  reasonCopy.append(reasonZh, reasonEn);
+  reason.append(reasonLabel, reasonCopy);
+  explanation.appendChild(reason);
+
+  const dialogue = document.createElement("section");
+  dialogue.className = "dialogue-output";
+  const dialogueLabel = document.createElement("span");
+  dialogueLabel.className = "script-section-label";
+  dialogueLabel.textContent = "HelloTalk 聊天记录";
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "dialogue-table-wrap";
+  const table = document.createElement("table");
+  table.className = "dialogue-table";
+  table.innerHTML = `
+    <thead>
+      <tr>
+        <th scope="col">角色</th>
+        <th scope="col">中文</th>
+        <th scope="col">English</th>
+      </tr>
+    </thead>
+  `;
+  const body = document.createElement("tbody");
+
+  variant.forEach((line) => {
+    const row = document.createElement("tr");
+    [
+      ["角色", line.role],
+      ["中文", line.zh],
+      ["English", line.en],
+    ].forEach(([label, value]) => {
+      const cell = document.createElement("td");
+      cell.dataset.label = label;
+      cell.textContent = value;
+      row.appendChild(cell);
+    });
+    body.appendChild(row);
+  });
+
+  table.appendChild(body);
+  tableWrap.appendChild(table);
+  dialogue.append(dialogueLabel, tableWrap);
+  elements.scriptPreview.append(cover, explanation, dialogue);
+}
+
+function createExplanationRow(label, value) {
+  const row = document.createElement("div");
+  row.className = "explanation-row";
+  const heading = document.createElement("strong");
+  heading.textContent = label;
+  const copy = document.createElement("p");
+  copy.textContent = value;
+  row.append(heading, copy);
+  return row;
+}
+
+function nextScriptVariant() {
+  const blueprint = state.dialogues[state.writerMaterialId];
+  if (!blueprint?.variants?.length) return;
+  state.writerVariantIndex =
+    (state.writerVariantIndex + 1) % blueprint.variants.length;
+  renderScript();
+}
+
+function scriptAsText() {
+  const current = getCurrentScript();
+  const material = state.materials.find(
+    (item) => item.id === state.writerMaterialId,
+  );
+  if (!current || !material) return "";
+
+  const { blueprint, variant } = current;
+  const lines = [
+    "【封面】",
+    material.keyword,
+    blueprint.cover_zh,
+    blueprint.cover_en,
+    "",
+    "【韩语梗解释】",
+    `韩语原句：${blueprint.korean_original}`,
+    `中文含义：${blueprint.meaning_zh}`,
+    `English meaning: ${blueprint.meaning_en}`,
+    `双关或误会原因：${blueprint.reason_zh}`,
+    `Reason: ${blueprint.reason_en}`,
+    "",
+    "角色\t中文\tEnglish",
+    ...variant.map((line) => `${line.role}\t${line.zh}\t${line.en}`),
+  ];
+  return lines.join("\n");
+}
+
+async function copyScriptToClipboard() {
+  const text = scriptAsText();
+  if (!text) return;
+
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.opacity = "0";
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    textarea.remove();
+  }
+
+  const original = elements.copyScript.textContent;
+  elements.copyScript.textContent = "已复制";
+  elements.copyScript.classList.add("is-success");
+  window.setTimeout(() => {
+    elements.copyScript.textContent = original;
+    elements.copyScript.classList.remove("is-success");
+  }, 1600);
 }
 
 function renderCategories() {
@@ -278,6 +569,18 @@ function renderDetail(material) {
   header.querySelector(".detail-title").textContent = material.title_zh;
   elements.detailContent.appendChild(header);
 
+  if (state.dialogues[material.id]) {
+    const action = document.createElement("div");
+    action.className = "detail-writer-action";
+    const button = document.createElement("button");
+    button.className = "primary-button";
+    button.type = "button";
+    button.textContent = "用这条素材写文案";
+    button.addEventListener("click", () => openWriter(material.id));
+    action.appendChild(button);
+    elements.detailContent.appendChild(action);
+  }
+
   elements.detailContent.appendChild(
     createSection("核心解释", (section) => {
       const chinese = document.createElement("p");
@@ -414,15 +717,38 @@ elements.sortSelect.addEventListener("change", (event) => {
 });
 
 elements.mobileBack.addEventListener("click", () => {
+  closeMobileDetail();
+});
+
+function closeMobileDetail() {
   elements.detailPane.classList.remove("is-open");
   document.body.style.overflow = "";
-});
+}
 
 window.addEventListener("resize", () => {
   if (!window.matchMedia("(max-width: 760px)").matches) {
-    elements.detailPane.classList.remove("is-open");
-    document.body.style.overflow = "";
+    closeMobileDetail();
   }
 });
+
+elements.libraryMode.addEventListener("click", () => setView("library"));
+
+elements.writerMode.addEventListener("click", () => setView("writer"));
+
+elements.writerMaterialSelect.addEventListener("change", (event) => {
+  state.writerMaterialId = event.target.value;
+  state.writerVariantIndex = 0;
+  renderWriterPlaceholder("素材已选择，点击“生成文案”");
+  elements.nextScript.disabled = false;
+  elements.copyScript.disabled = true;
+});
+
+elements.generateScript.addEventListener("click", () => {
+  state.writerVariantIndex = 0;
+  renderScript();
+});
+
+elements.nextScript.addEventListener("click", nextScriptVariant);
+elements.copyScript.addEventListener("click", copyScriptToClipboard);
 
 loadMaterials();

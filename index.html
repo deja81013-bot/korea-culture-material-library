@@ -8,6 +8,7 @@
       content="持续更新的韩国语言、社交、生活、韩剧与 K-pop 爆款内容素材库。"
     />
     <title>韩国文化爆款素材库</title>
+    <link rel="icon" href="data:," />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -17,63 +18,135 @@
           <p class="eyebrow">KOREA CULTURE SIGNALS</p>
           <h1>韩国文化爆款素材库</h1>
         </div>
-        <div class="library-meta" aria-label="素材库概况">
-          <span><strong id="material-count">--</strong> 条素材</span>
-          <span>更新于 <strong id="updated-date">--</strong></span>
+        <div class="topbar-actions">
+          <div class="mode-switch" role="tablist" aria-label="工作模式">
+            <button
+              id="library-mode"
+              class="mode-button is-active"
+              type="button"
+              role="tab"
+              aria-selected="true"
+            >
+              素材库
+            </button>
+            <button
+              id="writer-mode"
+              class="mode-button"
+              type="button"
+              role="tab"
+              aria-selected="false"
+            >
+              文案工坊
+            </button>
+          </div>
+          <div class="library-meta" aria-label="素材库概况">
+            <span><strong id="material-count">--</strong> 条素材</span>
+            <span>更新于 <strong id="updated-date">--</strong></span>
+          </div>
         </div>
       </header>
 
       <main>
-        <section class="toolbar" aria-label="素材筛选">
-          <label class="search-field">
-            <span class="sr-only">搜索素材</span>
-            <input
-              id="search-input"
-              type="search"
-              placeholder="搜索韩语、中文标题、文化场景..."
-              autocomplete="off"
-            />
-          </label>
+        <section id="library-view" class="view-panel">
+          <section class="toolbar" aria-label="素材筛选">
+            <label class="search-field">
+              <span class="sr-only">搜索素材</span>
+              <input
+                id="search-input"
+                type="search"
+                placeholder="搜索韩语、中文标题、文化场景..."
+                autocomplete="off"
+              />
+            </label>
 
-          <label class="sort-field">
-            <span>排序</span>
-            <select id="sort-select">
-              <option value="priority">优先级</option>
-              <option value="score">传播总分</option>
-              <option value="newest">最新入库</option>
-              <option value="unused">未使用优先</option>
-            </select>
-          </label>
+            <label class="sort-field">
+              <span>排序</span>
+              <select id="sort-select">
+                <option value="priority">优先级</option>
+                <option value="score">传播总分</option>
+                <option value="newest">最新入库</option>
+                <option value="unused">未使用优先</option>
+              </select>
+            </label>
+          </section>
+
+          <nav
+            id="category-tabs"
+            class="category-tabs"
+            aria-label="素材分类"
+          ></nav>
+
+          <section class="workspace">
+            <div class="list-pane">
+              <div class="list-heading">
+                <span id="result-count">正在加载</span>
+                <span class="list-legend">点击素材查看完整信息</span>
+              </div>
+              <div
+                id="material-list"
+                class="material-list"
+                aria-live="polite"
+              ></div>
+              <div id="empty-state" class="empty-state" hidden>
+                <strong>没有找到对应素材</strong>
+                <span>换个关键词或分类试试。</span>
+              </div>
+            </div>
+
+            <aside id="detail-pane" class="detail-pane" aria-label="素材详情">
+              <button id="mobile-back" class="mobile-back" type="button">
+                <span aria-hidden="true">←</span>
+                返回素材列表
+              </button>
+              <div id="detail-content" class="detail-content">
+                <div class="detail-placeholder">
+                  <span class="placeholder-index">01</span>
+                  <strong>选择一条素材</strong>
+                  <p>这里会显示完整解释、传播评分、事实边界和来源。</p>
+                </div>
+              </div>
+            </aside>
+          </section>
         </section>
 
-        <nav id="category-tabs" class="category-tabs" aria-label="素材分类"></nav>
+        <section id="writer-view" class="view-panel writer-view" hidden>
+          <div class="writer-toolbar">
+            <label class="writer-material-field">
+              <span>选取素材</span>
+              <select id="writer-material-select" aria-label="选择写作素材">
+                <option value="">正在加载素材</option>
+              </select>
+            </label>
 
-        <section class="workspace">
-          <div class="list-pane">
-            <div class="list-heading">
-              <span id="result-count">正在加载</span>
-              <span class="list-legend">点击素材查看完整信息</span>
-            </div>
-            <div id="material-list" class="material-list" aria-live="polite"></div>
-            <div id="empty-state" class="empty-state" hidden>
-              <strong>没有找到对应素材</strong>
-              <span>换个关键词或分类试试。</span>
+            <div class="writer-actions">
+              <button id="generate-script" class="primary-button" type="button">
+                生成文案
+              </button>
+              <button id="next-script" class="secondary-button" type="button">
+                换一版
+              </button>
+              <button id="copy-script" class="secondary-button" type="button">
+                复制双语文案
+              </button>
             </div>
           </div>
 
-          <aside id="detail-pane" class="detail-pane" aria-label="素材详情">
-            <button id="mobile-back" class="mobile-back" type="button">
-              <span aria-hidden="true">←</span>
-              返回素材列表
-            </button>
-            <div id="detail-content" class="detail-content">
-              <div class="detail-placeholder">
-                <span class="placeholder-index">01</span>
-                <strong>选择一条素材</strong>
-                <p>这里会显示完整解释、传播评分、事实边界和来源。</p>
-              </div>
+          <div class="writer-heading">
+            <span id="writer-status">选择一条素材开始写作</span>
+            <span>美国女生 × 韩国男网友 · 自然互怼</span>
+          </div>
+
+          <section
+            id="script-preview"
+            class="script-preview"
+            aria-live="polite"
+          >
+            <div class="writer-placeholder">
+              <span class="placeholder-index">02</span>
+              <strong>聊天文案会出现在这里</strong>
+              <p>封面、韩语梗解释和双语聊天记录将保持同一事实边界。</p>
             </div>
-          </aside>
+          </section>
         </section>
       </main>
 

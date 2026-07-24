@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="持续更新的韩国语言、社交、生活、韩剧与 K-pop 爆款内容素材库。"
+    />
+    <title>韩国文化爆款素材库</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">KOREA CULTURE SIGNALS</p>
+          <h1>韩国文化爆款素材库</h1>
+        </div>
+        <div class="library-meta" aria-label="素材库概况">
+          <span><strong id="material-count">--</strong> 条素材</span>
+          <span>更新于 <strong id="updated-date">--</strong></span>
+        </div>
+      </header>
+
+      <main>
+        <section class="toolbar" aria-label="素材筛选">
+          <label class="search-field">
+            <span class="sr-only">搜索素材</span>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="搜索韩语、中文标题、文化场景..."
+              autocomplete="off"
+            />
+          </label>
+
+          <label class="sort-field">
+            <span>排序</span>
+            <select id="sort-select">
+              <option value="priority">优先级</option>
+              <option value="score">传播总分</option>
+              <option value="newest">最新入库</option>
+              <option value="unused">未使用优先</option>
+            </select>
+          </label>
+        </section>
+
+        <nav id="category-tabs" class="category-tabs" aria-label="素材分类"></nav>
+
+        <section class="workspace">
+          <div class="list-pane">
+            <div class="list-heading">
+              <span id="result-count">正在加载</span>
+              <span class="list-legend">点击素材查看完整信息</span>
+            </div>
+            <div id="material-list" class="material-list" aria-live="polite"></div>
+            <div id="empty-state" class="empty-state" hidden>
+              <strong>没有找到对应素材</strong>
+              <span>换个关键词或分类试试。</span>
+            </div>
+          </div>
+
+          <aside id="detail-pane" class="detail-pane" aria-label="素材详情">
+            <button id="mobile-back" class="mobile-back" type="button">
+              <span aria-hidden="true">←</span>
+              返回素材列表
+            </button>
+            <div id="detail-content" class="detail-content">
+              <div class="detail-placeholder">
+                <span class="placeholder-index">01</span>
+                <strong>选择一条素材</strong>
+                <p>这里会显示完整解释、传播评分、事实边界和来源。</p>
+              </div>
+            </div>
+          </aside>
+        </section>
+      </main>
+
+      <footer>
+        <span>每日持续更新</span>
+        <span>语言事实优先核验，平台数据不做估算</span>
+      </footer>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

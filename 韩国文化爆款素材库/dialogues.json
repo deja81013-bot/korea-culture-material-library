@@ -1088,5 +1088,105 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-003": {
+    "korean_original": "오빠라고 불러도 돼?",
+    "meaning_zh": "我可以叫你오빠吗？",
+    "meaning_en": "Can I call you oppa?",
+    "reason_zh": "오빠可以是女性称呼亲哥哥，也可用于关系近、年龄较长的男性朋友、男友或丈夫。误会点在于英文和中文圈常把它简化成“男朋友”或“所有韩国男生都能叫”，但真实使用受说话者性别、年龄差、亲密度和场景限制。",
+    "reason_en": "오빠 can mean an older brother when spoken by a female, and it can also be used for a close older male friend, older boyfriend, or husband. The misunderstanding comes from reducing it to boyfriend or using it for any Korean man, while real use depends on speaker gender, age gap, closeness, and context.",
+    "cover_zh": "哥哥还是男朋友？",
+    "cover_en": "Older brother or boyfriend?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "오빠라고 불러도 돼?",
+          "en": "Can I call you oppa?"
+        },
+        {
+          "role": "对方",
+          "zh": "你今天又刷了什么韩剧剪辑？",
+          "en": "What K-drama clip did you watch today?"
+        },
+        {
+          "role": "我",
+          "zh": "不是，词典说是哥哥。你比我大啊。",
+          "en": "No, the dictionary says older brother. You are older than me."
+        },
+        {
+          "role": "对方",
+          "zh": "对，但不是所有年上的韩国男生都自动是오빠。",
+          "en": "True, but not every older Korean guy is automatically oppa."
+        },
+        {
+          "role": "我",
+          "zh": "那它到底是哥哥还是男朋友？",
+          "en": "Then is it older brother or boyfriend?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以是亲哥哥，也可以是很熟的年上男性。男朋友只是其中一种。",
+          "en": "It can be a real older brother or a close older guy. Boyfriend is only one case."
+        },
+        {
+          "role": "我",
+          "zh": "所以我不能见到韩国男生就发오빠。",
+          "en": "So I can’t text oppa to every Korean guy I see."
+        },
+        {
+          "role": "对方",
+          "zh": "请不要把韩国变成오빠工厂ㅋㅋㅋ",
+          "en": "Please don’t turn Korea into an oppa factory ㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我说우리 오빠 studies biology，然后同学问是不是男朋友。",
+          "en": "I said 우리 오빠 studies biology, and my classmate asked if he was my boyfriend."
+        },
+        {
+          "role": "对方",
+          "zh": "如果是真亲哥，说친오빠更清楚。",
+          "en": "If he is your actual brother, 친오빠 is clearer."
+        },
+        {
+          "role": "我",
+          "zh": "可是오빠不是哥哥吗？",
+          "en": "But doesn’t oppa mean older brother?"
+        },
+        {
+          "role": "对方",
+          "zh": "是，但也能指亲近的年上男性朋友或年上男友。",
+          "en": "Yes, but it can also mean a close older male friend or older boyfriend."
+        },
+        {
+          "role": "我",
+          "zh": "一个词把我的家人变成恋爱传闻了。",
+          "en": "One word turned my family into a dating rumor."
+        },
+        {
+          "role": "对方",
+          "zh": "韩语称呼词经常从家人跑到社交关系里。",
+          "en": "Korean kinship terms often move from family into social relationships."
+        },
+        {
+          "role": "我",
+          "zh": "那我叫你형可以避嫌吗？",
+          "en": "Then can I call you hyung to avoid the rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "你是女生，突然叫형会像在开玩笑或刻意划线。",
+          "en": "You’re a girl, so suddenly using hyung sounds like joking or drawing a line."
+        },
+        {
+          "role": "我",
+          "zh": "韩语称呼比时差还难。",
+          "en": "Korean titles are harder than our time difference."
+        }
+      ]
+    ]
   }
 }

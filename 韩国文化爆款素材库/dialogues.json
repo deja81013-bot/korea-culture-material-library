@@ -998,5 +998,95 @@
         }
       ]
     ]
+  },
+  "KR-LANG-010": {
+    "korean_original": "저는 관계한 적 없어요.",
+    "meaning_zh": "我没有发生过性关系。",
+    "meaning_en": "I have never had sexual relations.",
+    "reason_zh": "관계可以是普通的关系、关联，但在恋爱或男女语境里，관계하다、관계를 가지다、관계한 적 없다常会往性关系理解。想表达“没谈过恋爱”，更自然是연애한 적 없어요。",
+    "reason_en": "관계 can mean a general relationship or connection, but in dating or male-female contexts, 관계하다, 관계를 가지다, and 관계한 적 없다 often point to sexual relations. To say “I have never dated,” 연애한 적 없어요 is safer.",
+    "cover_zh": "关系还是性关系？",
+    "cover_en": "Relationship or sexual relationship?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我韩语日记写了：저는 관계한 적 없어요.",
+          "en": "I wrote in my Korean diary: 저는 관계한 적 없어요."
+        },
+        {
+          "role": "对方",
+          "zh": "你确定要写这个吗？",
+          "en": "Are you sure you want to write that?"
+        },
+        {
+          "role": "我",
+          "zh": "我想说我没谈过恋爱。",
+          "en": "I want to say I’ve never dated."
+        },
+        {
+          "role": "对方",
+          "zh": "那应该说연애한 적 없어요.",
+          "en": "Then say 연애한 적 없어요."
+        },
+        {
+          "role": "我",
+          "zh": "관계不是relationship吗？",
+          "en": "Doesn’t 관계 mean relationship?"
+        },
+        {
+          "role": "对方",
+          "zh": "是，但你那句更像在说没有性关系经验。",
+          "en": "Yes, but your sentence sounds more like no sexual experience."
+        },
+        {
+          "role": "我",
+          "zh": "我的日记突然太私人了。",
+          "en": "My diary suddenly got way too private."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "관계这个词是不是很安全？",
+          "en": "Is 관계 a safe word?"
+        },
+        {
+          "role": "对方",
+          "zh": "要看你把它放在哪里。",
+          "en": "It depends where you put it."
+        },
+        {
+          "role": "我",
+          "zh": "比如우리 관계 좋아요?",
+          "en": "Like 우리 관계 좋아요?"
+        },
+        {
+          "role": "对方",
+          "zh": "那是关系不错，正常。",
+          "en": "That means our relationship is good. Normal."
+        },
+        {
+          "role": "我",
+          "zh": "那관계한 적 없어요呢？",
+          "en": "Then what about 관계한 적 없어요?"
+        },
+        {
+          "role": "对方",
+          "zh": "那个就容易变成成人话题了ㅋㅋㅋ",
+          "en": "That one easily turns into an adult topic ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "韩语词典只给我一半真相。",
+          "en": "The Korean dictionary gave me only half the truth."
+        },
+        {
+          "role": "对方",
+          "zh": "所以你有我这个活人注释。",
+          "en": "That’s why you have me as a living footnote."
+        }
+      ]
+    ]
   }
 }

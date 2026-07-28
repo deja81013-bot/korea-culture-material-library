@@ -1188,5 +1188,95 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-004": {
+    "korean_original": "깻잎을 떼어 줘도 돼?",
+    "meaning_zh": "可以帮别人把黏住的紫苏叶分开吗？",
+    "meaning_en": "Is it okay to help someone separate stuck perilla leaves?",
+    "reason_zh": "깻잎 논쟁是韩国网络上的恋爱边界争论。争议点不是夹菜本身，而是伴侣在吃饭时帮异性朋友或别人按住、分开黏在一起的小菜，会被一部分人看成过分体贴。它是网络关系观测试，不是固定礼仪。",
+    "reason_en": "The perilla leaf debate is a Korean internet relationship-boundary debate. The issue is not the side dish itself, but whether a partner helping another person, often an opposite-sex friend, separate stuck leaves at a meal feels too considerate. It is an online relationship test, not a fixed etiquette rule.",
+    "cover_zh": "礼貌还是越界？",
+    "cover_en": "Polite or crossing a line?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我刚刷到깻잎 논쟁。帮别人夹一片叶子也能吵架？",
+          "en": "I just saw 깻잎 논쟁. People can fight over one leaf?"
+        },
+        {
+          "role": "对方",
+          "zh": "不是夹叶子，是帮别人把黏住的깻잎分开。",
+          "en": "It is not just picking up a leaf. It is helping someone separate stuck 깻잎."
+        },
+        {
+          "role": "我",
+          "zh": "那不是正常礼貌吗？",
+          "en": "Isn’t that just normal politeness?"
+        },
+        {
+          "role": "对方",
+          "zh": "对一些人是礼貌。对一些人像照顾得太细。",
+          "en": "For some people, yes. For others, it feels too attentive."
+        },
+        {
+          "role": "我",
+          "zh": "所以重点是叶子，还是关系边界？",
+          "en": "So is the point the leaf, or the relationship boundary?"
+        },
+        {
+          "role": "对方",
+          "zh": "当然是边界。叶子只是被迫出道ㅋㅋㅋ",
+          "en": "The boundary, obviously. The leaf just got forced into fame ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "韩国小菜压力好大。",
+          "en": "Korean side dishes have so much pressure."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "如果你女朋友帮男生分开깻잎，你会生气吗？",
+          "en": "If your girlfriend helped a guy separate 깻잎, would you be mad?"
+        },
+        {
+          "role": "对方",
+          "zh": "你今天怎么突然做韩国恋爱问卷？",
+          "en": "Why are you suddenly doing a Korean dating questionnaire?"
+        },
+        {
+          "role": "我",
+          "zh": "TikTok说这是大问题。",
+          "en": "TikTok says this is a big deal."
+        },
+        {
+          "role": "对方",
+          "zh": "它是大讨论，不是全国法律。",
+          "en": "It is a big debate, not national law."
+        },
+        {
+          "role": "我",
+          "zh": "那安全答案是什么？不碰叶子？",
+          "en": "Then what is the safe answer? Don’t touch the leaf?"
+        },
+        {
+          "role": "对方",
+          "zh": "更安全是先看关系。朋友、恋人、暧昧对象，答案都不一样。",
+          "en": "Safer is to read the relationship first. Friend, partner, almost-date, all different."
+        },
+        {
+          "role": "我",
+          "zh": "一片깻잎比韩语助词还难。",
+          "en": "One 깻잎 is harder than Korean particles."
+        },
+        {
+          "role": "对方",
+          "zh": "至少助词不会问你爱不爱我ㅋㅋㅋ",
+          "en": "At least particles don’t ask if you love me ㅋㅋㅋ"
+        }
+      ]
+    ]
   }
 }

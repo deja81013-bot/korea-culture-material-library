@@ -1278,5 +1278,100 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-005": {
+    "korean_original": "한국 나이로 몇 살이야?",
+    "meaning_zh": "按韩国年龄你几岁？",
+    "meaning_en": "How old are you by Korean age?",
+    "reason_zh": "传统한국 나이按出生即1岁、每年1月1日加1岁计算，因此跨年生日会产生很强反差。韩国自2023年6月28日起法律和行政上统一使用만 나이，出生从0岁开始，过生日才加1岁。日常聊天仍可能提到旧韩国年龄或出生年份，不能说旧算法在所有场景完全消失。",
+    "reason_en": "Traditional 한국 나이 counted a person as one at birth and added a year every January 1, which creates a strong contrast around New Year birthdays. Since June 28, 2023, South Korea uses 만 나이 for legal and administrative purposes: zero at birth and plus one after birthdays. In casual chat, people may still mention old Korean age or birth year, so it is not accurate to say the old system vanished from every context.",
+    "cover_zh": "刚出生1岁还是0岁？",
+    "cover_en": "One at birth or zero?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我刚看到한국 나이。韩国宝宝出生就1岁？",
+          "en": "I just saw 한국 나이. Korean babies are one at birth?"
+        },
+        {
+          "role": "对方",
+          "zh": "以前很多人这么算，现在正式用만 나이。",
+          "en": "Many people used to count that way, but officially we use 만 나이 now."
+        },
+        {
+          "role": "我",
+          "zh": "那12月31日出生，第二天就2岁？",
+          "en": "So if a baby is born on December 31, they are two the next day?"
+        },
+        {
+          "role": "对方",
+          "zh": "按传统韩国年龄，是这个冲击点ㅋㅋㅋ",
+          "en": "By traditional Korean age, yes. That is the shocking part ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "我还没学会生日快乐，先学会年龄危机。",
+          "en": "I have not even mastered happy birthday, and now I have an age crisis."
+        },
+        {
+          "role": "对方",
+          "zh": "现在正式文件看만 나이，出生0岁，过生日加1岁。",
+          "en": "For official documents now, read 만 나이: zero at birth, plus one after birthdays."
+        },
+        {
+          "role": "我",
+          "zh": "所以聊天时我该问出生年份吗？",
+          "en": "So in chat, should I ask birth year instead?"
+        },
+        {
+          "role": "对方",
+          "zh": "最稳。韩国人也常用几几年来避开混乱。",
+          "en": "Safest. Koreans also often use birth year to avoid confusion."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "你上次说你26，我今天刷到韩国年龄，开始怀疑你。",
+          "en": "You said you were 26 last time. I saw Korean age today, and now I am suspicious."
+        },
+        {
+          "role": "对方",
+          "zh": "怀疑什么，我没有偷偷变老ㅋㅋㅋ",
+          "en": "Suspicious of what? I did not secretly get older ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "한국 나이、만 나이、international age，你到底几个版本？",
+          "en": "한국 나이, 만 나이, international age. How many versions do you have?"
+        },
+        {
+          "role": "对方",
+          "zh": "官方是만 나이。传统한국 나이会大一到两岁。",
+          "en": "Officially it is 만 나이. Traditional 한국 나이 can be one or two years higher."
+        },
+        {
+          "role": "我",
+          "zh": "这听起来像游戏角色有两个等级。",
+          "en": "That sounds like a game character with two levels."
+        },
+        {
+          "role": "对方",
+          "zh": "差不多。但不是每天都拿来吓外国人。",
+          "en": "Kind of. But we do not use it every day just to scare foreigners."
+        },
+        {
+          "role": "我",
+          "zh": "那我简介写年龄要写哪个？",
+          "en": "Then which age should I put in my profile?"
+        },
+        {
+          "role": "对方",
+          "zh": "写international age就好。跟韩国人细聊再说出生年份。",
+          "en": "Use international age. If you talk with Koreans in detail, mention birth year."
+        }
+      ]
+    ]
   }
 }

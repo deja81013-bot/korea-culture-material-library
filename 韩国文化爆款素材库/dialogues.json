@@ -1373,5 +1373,100 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-006": {
+    "korean_original": "아줌마 말고 사장님이라고 불러.",
+    "meaning_zh": "别叫阿姨，叫老板/老师更稳。",
+    "meaning_en": "Do not call her ajumma; boss/teacher is safer.",
+    "reason_zh": "아줌마和아저씨有真实词典义，但在陌生人或服务场景里直接叫，可能让对方觉得被叫老或被轻慢。更稳的说法通常是先用저기요引起注意，或按场景用사장님、선생님、职务+님。它是社会语用风险，不是这两个词任何时候都等于骂人。",
+    "reason_en": "아줌마 and 아저씨 have real dictionary meanings, but using them directly for a stranger or in a service setting can make the person feel called old or talked down to. Safer choices are often 저기요 to get attention, or 사장님, 선생님, or a job title plus 님 depending on the setting. This is a social-pragmatic risk, not a rule that the words are always insults.",
+    "cover_zh": "阿姨大叔还是老板老师？",
+    "cover_en": "Auntie/uncle or boss/teacher?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我刚想问一个店员：아줌마, 이거 얼마예요?",
+          "en": "I was about to ask a shop worker: 아줌마, 이거 얼마예요?"
+        },
+        {
+          "role": "对方",
+          "zh": "停。你差点开局就很危险ㅋㅋㅋ",
+          "en": "Stop. You almost started in danger mode ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "啊？아줌마不是阿姨吗？",
+          "en": "Huh? Is 아줌마 not auntie?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以是，但对陌生人会像在说她老，或者不太尊重。",
+          "en": "It can be, but to a stranger it can sound like calling her old or being a bit disrespectful."
+        },
+        {
+          "role": "我",
+          "zh": "所以我不是买东西，是买一次社死？",
+          "en": "So I was not buying something, I was buying public embarrassment?"
+        },
+        {
+          "role": "对方",
+          "zh": "差不多。先说저기요最安全。",
+          "en": "Pretty much. 저기요 is safest first."
+        },
+        {
+          "role": "我",
+          "zh": "那사장님也可以？",
+          "en": "Then 사장님 is okay too?"
+        },
+        {
+          "role": "对方",
+          "zh": "在店里常用。比突然아줌마稳很多。",
+          "en": "It is common in shops. Much safer than suddenly saying 아줌마."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "韩剧里小孩叫人아저씨。我能叫成年男生아저씨吗？",
+          "en": "In dramas kids call men 아저씨. Can I call an adult guy 아저씨?"
+        },
+        {
+          "role": "对方",
+          "zh": "先不要乱叫，尤其对看起来不老的人。",
+          "en": "Do not use it randomly, especially for someone who does not look old."
+        },
+        {
+          "role": "我",
+          "zh": "可是词典不是说成年男性也可以吗？",
+          "en": "But does the dictionary not say it can mean an adult man?"
+        },
+        {
+          "role": "对方",
+          "zh": "意思可以，气氛不一定可以。",
+          "en": "The meaning can work, but the mood might not."
+        },
+        {
+          "role": "我",
+          "zh": "韩语又在用气氛考试我。",
+          "en": "Korean is testing me with vibes again."
+        },
+        {
+          "role": "对方",
+          "zh": "没错ㅋㅋㅋ 年龄差明显、司机叔叔那种还行。",
+          "en": "Exactly ㅋㅋㅋ If the age gap is obvious, or for a driver-type older man, it can be fine."
+        },
+        {
+          "role": "我",
+          "zh": "年龄不确定呢？",
+          "en": "What if I am not sure about the age?"
+        },
+        {
+          "role": "对方",
+          "zh": "用저기요，或者正式场合用선생님。别急着送别人变老。",
+          "en": "Use 저기요, or 선생님 in a formal setting. Do not rush to age someone."
+        }
+      ]
+    ]
   }
 }

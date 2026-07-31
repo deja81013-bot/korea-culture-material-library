@@ -1468,5 +1468,100 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-007": {
+    "korean_original": "너 진짜 눈치 없다.",
+    "meaning_zh": "你真的没眼力见。",
+    "meaning_en": "You really cannot read the room.",
+    "reason_zh": "눈치指根据场合、气氛、表情和上下文察觉别人心情或意图的社会敏感度。눈치 없다不是字面“没有眼睛”，也不是超能力读心，而是说人没读懂空气、没抓到社交信号。朋友间可以轻轻互怼，但在不熟或层级关系里会显得刺耳。",
+    "reason_en": "눈치 means the social sensitivity to notice the situation, mood, facial cues, and context and infer what others feel or expect. 눈치 없다 does not literally mean having no eyes, and it is not mind reading. It means failing to read the room or missing social cues. Friends may tease each other with it, but it can sound harsh in distant or hierarchical relationships.",
+    "cover_zh": "眼力见还是读心术？",
+    "cover_en": "Social sense or mind reading?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我今天学到눈치。是不是韩国版读心术？",
+          "en": "I learned 눈치 today. Is it the Korean version of mind reading?"
+        },
+        {
+          "role": "对方",
+          "zh": "不是读心术ㅋㅋㅋ 是读空气。",
+          "en": "It is not mind reading ㅋㅋㅋ It is reading the room."
+        },
+        {
+          "role": "我",
+          "zh": "读空气听起来也很超能力。",
+          "en": "Reading the room still sounds like a superpower."
+        },
+        {
+          "role": "对方",
+          "zh": "就是看气氛、表情、上下文。",
+          "en": "It is watching the mood, faces, and context."
+        },
+        {
+          "role": "我",
+          "zh": "那我在群聊突然发十条语法问题，是눈치 없다？",
+          "en": "So if I suddenly send ten grammar questions in a group chat, is that 눈치 없다?"
+        },
+        {
+          "role": "对方",
+          "zh": "如果大家在聊别的，嗯，有点。",
+          "en": "If everyone is talking about something else, yeah, kind of."
+        },
+        {
+          "role": "我",
+          "zh": "谢谢，我被空气本人批改了。",
+          "en": "Thanks, I just got corrected by the room itself."
+        },
+        {
+          "role": "对方",
+          "zh": "别怕。你现在至少有一点눈치了。",
+          "en": "Do not worry. You have at least a little 눈치 now."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "有人评论我눈치 챙겨。是在叫我捡眼睛吗？",
+          "en": "Someone commented 눈치 챙겨 at me. Are they telling me to pick up my eyes?"
+        },
+        {
+          "role": "对方",
+          "zh": "不是ㅋㅋㅋ 是叫你看气氛。",
+          "en": "No ㅋㅋㅋ They are telling you to read the mood."
+        },
+        {
+          "role": "我",
+          "zh": "我只是问大家为什么突然安静。",
+          "en": "I only asked why everyone suddenly got quiet."
+        },
+        {
+          "role": "对方",
+          "zh": "如果话题很尴尬，那句可能就太直了。",
+          "en": "If the topic was awkward, that line may have been too direct."
+        },
+        {
+          "role": "我",
+          "zh": "所以눈치是少说一句的能力？",
+          "en": "So 눈치 is the ability to say one less sentence?"
+        },
+        {
+          "role": "对方",
+          "zh": "有时候是。也有时候是该帮忙时看出来。",
+          "en": "Sometimes, yes. Other times it is noticing when help is needed."
+        },
+        {
+          "role": "我",
+          "zh": "韩语课没有教这个隐藏技能。",
+          "en": "Korean class did not teach this hidden skill."
+        },
+        {
+          "role": "对方",
+          "zh": "因为这个不是单词表，是社交雷达。",
+          "en": "Because it is not a vocabulary list. It is social radar."
+        }
+      ]
+    ]
   }
 }

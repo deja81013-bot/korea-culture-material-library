@@ -1563,5 +1563,101 @@
         }
       ]
     ]
+  },
+  "KR-MEME-002": {
+    "id": "KR-MEME-002",
+    "korean_original": "라떼는 말이야 / 나 때는 말이야 / 꼰대",
+    "meaning_zh": "라떼는 말이야字面像“拿铁是……”，实际是把나 때는 말이야（我那时候啊）说成咖啡梗，用来讽刺꼰대式说教。",
+    "meaning_en": "라떼는 말이야 looks like “latte is...,” but it puns on 나 때는 말이야, “back in my day,” to mock kkondae-style lecturing.",
+    "reason_zh": "误会成立在真实谐音和网络语境上：latte像나 때，꼰대是贬义标签，常用于代际、职场或权威式说教的讽刺。",
+    "reason_en": "The misunderstanding rests on a real pun and social context: latte sounds like 나 때, and 꼰대 is a pejorative label often used for generational, workplace, or authority-based lecturing.",
+    "cover_zh": "라떼는 말이야\n拿铁还是老前辈说教？",
+    "cover_en": "라떼는 말이야\nLatte or old lecture?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到라떼는 말이야，以为韩国人突然聊咖啡。",
+          "en": "I saw 라떼는 말이야 and thought Koreans were suddenly talking about coffee."
+        },
+        {
+          "role": "对方",
+          "zh": "不是咖啡ㅋㅋㅋ 是在模仿나 때는 말이야。",
+          "en": "It is not coffee ㅋㅋㅋ It is copying 나 때는 말이야."
+        },
+        {
+          "role": "我",
+          "zh": "就是back in my day那种？",
+          "en": "Like the back in my day line?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，通常是在吐槽꼰대式说教。",
+          "en": "Yes, usually mocking kkondae-style lecturing."
+        },
+        {
+          "role": "我",
+          "zh": "所以latte只是谐音？",
+          "en": "So latte is just a sound joke?"
+        },
+        {
+          "role": "对方",
+          "zh": "嗯，나 때听起来像라떼。不要真的点拿铁。",
+          "en": "Yeah, 나 때 sounds like 라떼. Do not actually order a latte."
+        },
+        {
+          "role": "我",
+          "zh": "韩语连咖啡都能变职场压力。",
+          "en": "Korean can turn even coffee into workplace pressure."
+        },
+        {
+          "role": "对方",
+          "zh": "欢迎来到社会语用课ㅋㅋㅋ",
+          "en": "Welcome to social pragmatics class ㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "꼰대是不是只等于old person？",
+          "en": "Does 꼰대 just mean old person?"
+        },
+        {
+          "role": "对方",
+          "zh": "不完全是。重点是说教和压人。",
+          "en": "Not exactly. The point is lecturing and talking down."
+        },
+        {
+          "role": "我",
+          "zh": "那年轻人也可以꼰대？",
+          "en": "So a young person can be 꼰대 too?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以。年纪不是唯一条件。",
+          "en": "Yes. Age is not the only condition."
+        },
+        {
+          "role": "我",
+          "zh": "如果我说我以前背单词都是手写五遍呢？",
+          "en": "What if I say I used to write every word five times by hand?"
+        },
+        {
+          "role": "对方",
+          "zh": "如果你说别人必须也这样，就有点라떼了。",
+          "en": "If you say everyone must do it too, that is a little 라떼."
+        },
+        {
+          "role": "我",
+          "zh": "收到。我先把我的拿铁闭嘴。",
+          "en": "Got it. I will make my latte be quiet."
+        },
+        {
+          "role": "对方",
+          "zh": "好，这杯咖啡终于懂事了。",
+          "en": "Good. This cup of coffee finally learned manners."
+        }
+      ]
+    ]
   }
 }

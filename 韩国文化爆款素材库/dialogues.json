@@ -1659,5 +1659,101 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-008": {
+    "id": "KR-SOCIAL-008",
+    "korean_original": "읽씹 / 안읽씹 / 카톡 1",
+    "meaning_zh": "읽씹是读了消息但不回；안읽씹是连消息都不点开也不回。카톡里的数字1是否消失，会让人判断对方到底是忙、回避还是故意无视。",
+    "meaning_en": "읽씹 means reading a message and not replying. 안읽씹 means not opening it and still not replying. In KakaoTalk, whether the unread number 1 disappears can make people wonder if someone is busy, avoiding them, or deliberately ignoring them.",
+    "reason_zh": "误会成立在真实网络词和已读提示文化上。씹在这里不是字面嚼东西，而是聊天里“不回、不理”的缩写语境。它只适用于需要回应却长期没回应的消息，不包括睡觉、时差、忙碌或已经自然结束的对话。",
+    "reason_en": "The misunderstanding rests on real Korean texting slang and read-receipt culture. 씹 here is not literally chewing food; it means ignoring or not replying in a chat context. It applies when a message needs a response and gets no answer for a long time, not when someone is asleep, busy, in another time zone, or the conversation has naturally ended.",
+    "cover_zh": "읽씹 / 안읽씹\n已读不回还是没读也不回？",
+    "cover_en": "읽씹 / 안읽씹\nRead-no-reply or unread-no-reply?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到읽씹，以为是把消息嚼了。",
+          "en": "I saw 읽씹 and thought it meant chewing a message."
+        },
+        {
+          "role": "对方",
+          "zh": "不是ㅋㅋㅋ 是读了不回。",
+          "en": "No ㅋㅋㅋ It means reading it and not replying."
+        },
+        {
+          "role": "我",
+          "zh": "那안읽씹呢？没嚼？",
+          "en": "Then what is 안읽씹? Not chewing?"
+        },
+        {
+          "role": "对方",
+          "zh": "更烦一点。连点开都不点开，也不回。",
+          "en": "A bit more annoying. They do not even open it, and still do not reply."
+        },
+        {
+          "role": "我",
+          "zh": "所以카톡那个1一直在，是故意的吗？",
+          "en": "So if the KakaoTalk 1 stays there, is it on purpose?"
+        },
+        {
+          "role": "对方",
+          "zh": "不一定。可能忙，也可能在躲。",
+          "en": "Not always. They may be busy, or they may be avoiding it."
+        },
+        {
+          "role": "我",
+          "zh": "我和你有时差，我是不是每天都안읽씹。",
+          "en": "We have a time difference. Am I doing 안읽씹 every day?"
+        },
+        {
+          "role": "对方",
+          "zh": "你那叫睡觉。先别给自己判刑。",
+          "en": "That is called sleeping. Do not sentence yourself yet."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "如果我读了你的韩语问题，十分钟后才回，是읽씹吗？",
+          "en": "If I read your Korean question and reply ten minutes later, is that 읽씹?"
+        },
+        {
+          "role": "对方",
+          "zh": "十分钟不是읽씹。你太认真了ㅋㅋㅋ",
+          "en": "Ten minutes is not 읽씹. You are taking this too seriously ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "那几个小时呢？",
+          "en": "What about a few hours?"
+        },
+        {
+          "role": "对方",
+          "zh": "看内容。只是表情包就还好。",
+          "en": "Depends on the message. If it was just a meme, it is fine."
+        },
+        {
+          "role": "我",
+          "zh": "如果是“这个语法对吗？”",
+          "en": "What if it says, Is this grammar right?"
+        },
+        {
+          "role": "对方",
+          "zh": "那我会觉得你在安静地逃跑。",
+          "en": "Then I may think you are quietly running away."
+        },
+        {
+          "role": "我",
+          "zh": "美国女生被카톡 1审判中。",
+          "en": "American girl currently being judged by the KakaoTalk 1."
+        },
+        {
+          "role": "对方",
+          "zh": "别怕。只要最后回，就还有救。",
+          "en": "Do not worry. If you reply eventually, there is still hope."
+        }
+      ]
+    ]
   }
 }

@@ -1755,5 +1755,101 @@
         }
       ]
     ]
+  },
+  "KR-LANG-011": {
+    "id": "KR-LANG-011",
+    "korean_original": "JMT / 존맛탱 / 존맛탱구리",
+    "meaning_zh": "JMT是존맛탱的首字母，常用来夸食物特别好吃。但존맛탱带俗语感，不是正式韩语，朋友聊天和美食评论里可以，长辈、老师、正式场合最好别用。",
+    "meaning_en": "JMT is the initials of 존맛탱, often used to say food is extremely delicious. But 존맛탱 has a slangy, somewhat crude feel. It is fine in casual chats or food comments, but not with elders, teachers, or formal situations.",
+    "reason_zh": "误会成立在真实网络缩写和语体差异上。外国学习者看到JMT容易当成普通英文缩写或礼貌夸奖，但韩语里的존맛탱来自俗语化的强烈夸味道表达。它不是任何时候都等同脏话，关键是朋友语境和正式语境的差别。",
+    "reason_en": "The misunderstanding rests on a real internet abbreviation and register difference. A learner may see JMT as a normal English-looking shortcut or a polite compliment, but 존맛탱 comes from a slangy strong way to praise taste in Korean. It is not a swear word in every context; the key is casual friend context versus formal context.",
+    "cover_zh": "JMT / 존맛탱\n好吃还是粗口缩写？",
+    "cover_en": "JMT / 존맛탱\nTasty or a rude shortcut?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我刚学了JMT，是不是高级夸饭好吃？",
+          "en": "I just learned JMT. Is it a fancy way to praise food?"
+        },
+        {
+          "role": "对方",
+          "zh": "高级？ㅋㅋㅋ 不是，是很网感的说法。",
+          "en": "Fancy? ㅋㅋㅋ No, it is a very internet-ish word."
+        },
+        {
+          "role": "我",
+          "zh": "不是just marvelous taste吗？",
+          "en": "Is it not just marvelous taste?"
+        },
+        {
+          "role": "对方",
+          "zh": "你自己发明英语了。JMT是존맛탱。",
+          "en": "You invented your own English. JMT is 존맛탱."
+        },
+        {
+          "role": "我",
+          "zh": "那我能给韩语老师发“这个泡面JMT”吗？",
+          "en": "Then can I text my Korean teacher, This ramyeon is JMT?"
+        },
+        {
+          "role": "对方",
+          "zh": "别。朋友可以，老师面前别装美食博主。",
+          "en": "Do not. Friends are fine, but do not act like a food blogger in front of your teacher."
+        },
+        {
+          "role": "我",
+          "zh": "所以它是好吃，但有点粗？",
+          "en": "So it means delicious, but a little crude?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。你终于没把缩写学成考试答案了。",
+          "en": "Yes. You finally did not turn a slang shortcut into an exam answer."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我在评论区看到존맛탱구리，差点以为是菜名。",
+          "en": "I saw 존맛탱구리 in comments and almost thought it was a dish name."
+        },
+        {
+          "role": "对方",
+          "zh": "不是菜名ㅋㅋㅋ 是在说特别好吃。",
+          "en": "It is not a dish name ㅋㅋㅋ It means it is super tasty."
+        },
+        {
+          "role": "我",
+          "zh": "那和맛있어요一样安全吗？",
+          "en": "Is it as safe as 맛있어요?"
+        },
+        {
+          "role": "对方",
+          "zh": "完全不是。맛있어요很正常，존맛탱很随便。",
+          "en": "Not at all. 맛있어요 is normal, 존맛탱 is very casual."
+        },
+        {
+          "role": "我",
+          "zh": "我差点在作业里写“김치찌개는 JMT입니다”。",
+          "en": "I almost wrote 김치찌개는 JMT입니다 in my homework."
+        },
+        {
+          "role": "对方",
+          "zh": "老师会沉默三秒。",
+          "en": "Your teacher would be silent for three seconds."
+        },
+        {
+          "role": "我",
+          "zh": "但发给你可以？",
+          "en": "But I can send it to you?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以。你还可以少装礼貌一点。",
+          "en": "Yes. You can also stop sounding so formal with me."
+        }
+      ]
+    ]
   }
 }

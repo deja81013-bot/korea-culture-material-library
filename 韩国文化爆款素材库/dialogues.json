@@ -1851,5 +1851,101 @@
         }
       ]
     ]
+  },
+  "KR-LANG-012": {
+    "id": "KR-LANG-012",
+    "korean_original": "개웃겨 / 개꿀잼 / 개이득",
+    "meaning_zh": "개可以是“狗”，但在韩语网络口语里，개-也常当强烈程度前缀用。개웃겨是超好笑，개꿀잼是超级有趣，개이득是赚大了。它很随便、有俗语感，不能用于正式场合，也不能把所有개都理解成“很”。",
+    "meaning_en": "개 can mean “dog,” but in Korean internet speech 개- is also used as a strong intensifier. 개웃겨 means “so funny,” 개꿀잼 means “super fun,” and 개이득 means “a huge win.” It is very casual and slangy, not for formal situations, and not every 개 means “very.”",
+    "reason_zh": "误会成立在真实词义冲突和网络语体上。初学者先学到개=狗，看到개웃겨或개꿀잼会直译成dog funny/dog fun；韩国男生解释这是朋友、弹幕和评论区常见的俗语前缀，但正式、长辈或老师场景要换成정말、너무等更安全表达。",
+    "reason_en": "The misunderstanding rests on a real lexical conflict and internet register. A learner first learns 개 as “dog,” so 개웃겨 or 개꿀잼 may look like “dog funny” or “dog fun.” The Korean friend explains that this is a slang prefix common in friend chats, captions, and comments, while formal or elder contexts need safer words like 정말 or 너무.",
+    "cover_zh": "개웃겨 / 개꿀잼\n狗还是超好笑？",
+    "cover_en": "개웃겨 / 개꿀잼\nDog or super funny?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到有人写개웃겨ㅋㅋㅋ，是狗很好笑吗？",
+          "en": "I saw someone write 개웃겨ㅋㅋㅋ. Is the dog funny?"
+        },
+        {
+          "role": "对方",
+          "zh": "不是狗ㅋㅋㅋ 是“超好笑”。",
+          "en": "It is not a dog ㅋㅋㅋ It means “so funny.”"
+        },
+        {
+          "role": "我",
+          "zh": "可是我的词典说개是dog。",
+          "en": "But my dictionary says 개 is dog."
+        },
+        {
+          "role": "对方",
+          "zh": "词典没错。只是网络口语里개-也能加强语气。",
+          "en": "The dictionary is not wrong. In internet slang, 개- can also make the meaning stronger."
+        },
+        {
+          "role": "我",
+          "zh": "所以dog funny其实是very funny？",
+          "en": "So dog funny is actually very funny?"
+        },
+        {
+          "role": "对方",
+          "zh": "朋友聊天里差不多。正式场合别这样写。",
+          "en": "In friend chat, kind of. Do not write it in formal places."
+        },
+        {
+          "role": "我",
+          "zh": "我差点给老师发“수업 개꿀잼”。",
+          "en": "I almost sent my teacher, 수업 개꿀잼."
+        },
+        {
+          "role": "对方",
+          "zh": "别把课堂评价写成弹幕ㅋㅋㅋ",
+          "en": "Do not turn a class review into a live comment ㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "有人说优惠券개이득，狗赚到钱了吗？",
+          "en": "Someone said this coupon is 개이득. Did a dog make money?"
+        },
+        {
+          "role": "对方",
+          "zh": "ㅋㅋㅋ 是“赚大了”。不是狗做生意。",
+          "en": "ㅋㅋㅋ It means “a huge win.” No dog is doing business."
+        },
+        {
+          "role": "我",
+          "zh": "韩语为什么一直把狗藏进句子里？",
+          "en": "Why does Korean keep hiding dogs inside sentences?"
+        },
+        {
+          "role": "对方",
+          "zh": "先冷静。不是所有개都这样。",
+          "en": "Calm down first. Not every 개 works like that."
+        },
+        {
+          "role": "我",
+          "zh": "那개꿀잼也是同一类？",
+          "en": "Then is 개꿀잼 the same kind?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，意思是超级有趣，但语气很随便。",
+          "en": "Yes. It means super fun, but the tone is very casual."
+        },
+        {
+          "role": "我",
+          "zh": "朋友消息可以，正式邮件不可以？",
+          "en": "Friend messages are okay, formal emails are not?"
+        },
+        {
+          "role": "对方",
+          "zh": "正确。写邮件就用정말 좋아요，别用개。",
+          "en": "Correct. In email, use 정말 좋아요, not 개."
+        }
+      ]
+    ]
   }
 }

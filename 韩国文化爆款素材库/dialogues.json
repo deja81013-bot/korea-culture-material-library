@@ -2043,5 +2043,2290 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-010": {
+    "korean_original": "나이 어떻게 돼요?",
+    "meaning_zh": "很多韩国人初次见面会先问年龄，好决定敬语、称呼和前后辈关系。",
+    "meaning_en": "Many Koreans ask age first so they can choose honorifics, forms of address, and senior-junior relations.",
+    "reason_zh": "初次见面先问年龄 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。但也不是见谁都要问，看关系和场合。",
+    "reason_en": "初次见面先问年龄 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. But it is not asked of everyone; it depends on relationship and context.",
+    "cover_zh": "나이 / 호칭\n初次见面先问年龄\nA还是B？",
+    "cover_en": "나이 / 호칭\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：初次见面先问年龄。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国人初次见面会先问年龄，好决定敬语、称呼和前后辈关系。",
+          "en": "Many Koreans ask age first so they can choose honorifics, forms of address, and senior-junior relations."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "但也不是见谁都要问，看关系和场合。",
+          "en": "But it is not asked of everyone; it depends on relationship and context."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 初次见面先问年龄 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国人初次见面会先问年龄，好决定敬语、称呼和前后辈关系。",
+          "en": "Many Koreans ask age first so they can choose honorifics, forms of address, and senior-junior relations."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "但也不是见谁都要问，看关系和场合。",
+          "en": "But it is not asked of everyone; it depends on relationship and context."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-002": {
+    "korean_original": "혼밥 하면 좀 그래?",
+    "meaning_zh": "혼밥 现在很常见，但老一代社交印象里，一个人吃饭曾经容易被觉得孤单或被排除。",
+    "meaning_en": "Eating alone, 혼밥, is now common, but older social impressions once treated it as lonely or excluded.",
+    "reason_zh": "一个人吃饭不再被欢迎 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。现在单人餐厅和 혼밥 文化已经很普遍。",
+    "reason_en": "一个人吃饭不再被欢迎 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Single-person dining and 혼밥 culture are common now.",
+    "cover_zh": "혼밥\n一个人吃饭不再被欢迎\nA还是B？",
+    "cover_en": "혼밥\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：一个人吃饭不再被欢迎。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "혼밥 现在很常见，但老一代社交印象里，一个人吃饭曾经容易被觉得孤单或被排除。",
+          "en": "Eating alone, 혼밥, is now common, but older social impressions once treated it as lonely or excluded."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "现在单人餐厅和 혼밥 文化已经很普遍。",
+          "en": "Single-person dining and 혼밥 culture are common now."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 一个人吃饭不再被欢迎 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "혼밥 现在很常见，但老一代社交印象里，一个人吃饭曾经容易被觉得孤单或被排除。",
+          "en": "Eating alone, 혼밥, is now common, but older social impressions once treated it as lonely or excluded."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "现在单人餐厅和 혼밥 文化已经很普遍。",
+          "en": "Single-person dining and 혼밥 culture are common now."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-003": {
+    "korean_original": "길에 쓰레기통이 왜 이렇게 적지?",
+    "meaning_zh": "很多外国人到韩国后会觉得街头垃圾桶少，和城市清洁、管理方式有关。",
+    "meaning_en": "Many foreigners feel street trash cans are scarce in Korea, which they link to city cleaning and management.",
+    "reason_zh": "路上没有垃圾桶 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不是整个韩国都没有，只是外地人更容易先被冲击到。",
+    "reason_en": "路上没有垃圾桶 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is not that all of Korea has none; visitors just notice it quickly.",
+    "cover_zh": "쓰레기통\n路上没有垃圾桶\nA还是B？",
+    "cover_en": "쓰레기통\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：路上没有垃圾桶。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多外国人到韩国后会觉得街头垃圾桶少，和城市清洁、管理方式有关。",
+          "en": "Many foreigners feel street trash cans are scarce in Korea, which they link to city cleaning and management."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不是整个韩国都没有，只是外地人更容易先被冲击到。",
+          "en": "It is not that all of Korea has none; visitors just notice it quickly."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 路上没有垃圾桶 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多外国人到韩国后会觉得街头垃圾桶少，和城市清洁、管理方式有关。",
+          "en": "Many foreigners feel street trash cans are scarce in Korea, which they link to city cleaning and management."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不是整个韩国都没有，只是外地人更容易先被冲击到。",
+          "en": "It is not that all of Korea has none; visitors just notice it quickly."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-004": {
+    "korean_original": "저 배려석 앉아도 돼?",
+    "meaning_zh": "地铁的爱心座和优先座有明确礼让语境，外地人常把它当普通空位。",
+    "meaning_en": "Korean subway priority seats have a clear etiquette context, but foreigners often mistake them for ordinary empty seats.",
+    "reason_zh": "地铁爱心位不能乱坐 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。普通优先座和孕妇座规则不一样，不能一概而论。",
+    "reason_en": "地铁爱心位不能乱坐 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Regular priority seats and pregnancy seats do not follow exactly the same rule.",
+    "cover_zh": "배려석\n地铁爱心位不能乱坐\nA还是B？",
+    "cover_en": "배려석\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：地铁爱心位不能乱坐。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "地铁的爱心座和优先座有明确礼让语境，外地人常把它当普通空位。",
+          "en": "Korean subway priority seats have a clear etiquette context, but foreigners often mistake them for ordinary empty seats."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "普通优先座和孕妇座规则不一样，不能一概而论。",
+          "en": "Regular priority seats and pregnancy seats do not follow exactly the same rule."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 地铁爱心位不能乱坐 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "地铁的爱心座和优先座有明确礼让语境，外地人常把它当普通空位。",
+          "en": "Korean subway priority seats have a clear etiquette context, but foreigners often mistake them for ordinary empty seats."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "普通优先座和孕妇座规则不一样，不能一概而论。",
+          "en": "Regular priority seats and pregnancy seats do not follow exactly the same rule."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-005": {
+    "korean_original": "한국은 과일이 왜 이렇게 비싸?",
+    "meaning_zh": "很多外地人会把韩国水果价格当成强烈的消费冲击点，尤其是进口或季节性水果。",
+    "meaning_en": "Many foreigners find fruit prices in Korea a strong shock, especially for imported or seasonal fruit.",
+    "reason_zh": "水果很贵 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。价格会随季节和品类波动，不是每一种水果都一样贵。",
+    "reason_en": "水果很贵 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Prices vary by season and type, so not every fruit is equally expensive.",
+    "cover_zh": "과일\n水果很贵\nA还是B？",
+    "cover_en": "과일\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：水果很贵。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多外地人会把韩国水果价格当成强烈的消费冲击点，尤其是进口或季节性水果。",
+          "en": "Many foreigners find fruit prices in Korea a strong shock, especially for imported or seasonal fruit."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "价格会随季节和品类波动，不是每一种水果都一样贵。",
+          "en": "Prices vary by season and type, so not every fruit is equally expensive."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 水果很贵 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多外地人会把韩国水果价格当成强烈的消费冲击点，尤其是进口或季节性水果。",
+          "en": "Many foreigners find fruit prices in Korea a strong shock, especially for imported or seasonal fruit."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "价格会随季节和品类波动，不是每一种水果都一样贵。",
+          "en": "Prices vary by season and type, so not every fruit is equally expensive."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-011": {
+    "korean_original": "내가 살게.",
+    "meaning_zh": "在约会或熟人饭局里，很多人会默认抢着买单；但分摊也越来越常见，不能写成绝对规则。",
+    "meaning_en": "At dates or meals with acquaintances, many people still rush to pay; but splitting the bill is also becoming more common.",
+    "reason_zh": "韩国男生抢着买单 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。要看年龄、关系和谁先提议。",
+    "reason_en": "韩国男生抢着买单 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It depends on age, relationship, and who suggests it first.",
+    "cover_zh": "더치페이 / 내가 살게\n韩国男生抢着买单\nA还是B？",
+    "cover_en": "더치페이 / 내가 살게\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国男生抢着买单。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "在约会或熟人饭局里，很多人会默认抢着买单；但分摊也越来越常见，不能写成绝对规则。",
+          "en": "At dates or meals with acquaintances, many people still rush to pay; but splitting the bill is also becoming more common."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "要看年龄、关系和谁先提议。",
+          "en": "It depends on age, relationship, and who suggests it first."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国男生抢着买单 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "在约会或熟人饭局里，很多人会默认抢着买单；但分摊也越来越常见，不能写成绝对规则。",
+          "en": "At dates or meals with acquaintances, many people still rush to pay; but splitting the bill is also becoming more common."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "要看年龄、关系和谁先提议。",
+          "en": "It depends on age, relationship, and who suggests it first."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-012": {
+    "korean_original": "문 좀 잡아 줘.",
+    "meaning_zh": "很多外国人觉得韩国街头不常见顺手扶门，这更像通行节奏和个人习惯的差异。",
+    "meaning_en": "Many foreigners feel door-holding is less common in Korea; that reads more as a difference in pace and habit.",
+    "reason_zh": "不太帮后面的人扶门 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不是没人会扶，而是不能写成所有场景都这样。",
+    "reason_en": "不太帮后面的人扶门 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. People do hold doors sometimes, so it cannot be written as universal.",
+    "cover_zh": "문 잡기\n不太帮后面的人扶门\nA还是B？",
+    "cover_en": "문 잡기\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：不太帮后面的人扶门。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多外国人觉得韩国街头不常见顺手扶门，这更像通行节奏和个人习惯的差异。",
+          "en": "Many foreigners feel door-holding is less common in Korea; that reads more as a difference in pace and habit."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不是没人会扶，而是不能写成所有场景都这样。",
+          "en": "People do hold doors sometimes, so it cannot be written as universal."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 不太帮后面的人扶门 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多外国人觉得韩国街头不常见顺手扶门，这更像通行节奏和个人习惯的差异。",
+          "en": "Many foreigners feel door-holding is less common in Korea; that reads more as a difference in pace and habit."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不是没人会扶，而是不能写成所有场景都这样。",
+          "en": "People do hold doors sometimes, so it cannot be written as universal."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-006": {
+    "korean_original": "여기서도 이렇게 바로 자?",
+    "meaning_zh": "地铁、咖啡店、教室里随时打盹的画面很常见，容易被外地人夸张成“睡眠进化”。",
+    "meaning_en": "Dozing off on subways, in cafes, or in classrooms is common enough that foreigners joke Koreans have evolved sleep.",
+    "reason_zh": "韩国人似乎进化了睡眠 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这只是城市生活里常见的劳累与休息场景，不是生理超能力。",
+    "reason_en": "韩国人似乎进化了睡眠 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is just urban fatigue and rest, not a superhuman ability.",
+    "cover_zh": "쪽잠 / 졸음\n韩国人似乎进化了睡眠\nA还是B？",
+    "cover_en": "쪽잠 / 졸음\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国人似乎进化了睡眠。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "地铁、咖啡店、教室里随时打盹的画面很常见，容易被外地人夸张成“睡眠进化”。",
+          "en": "Dozing off on subways, in cafes, or in classrooms is common enough that foreigners joke Koreans have evolved sleep."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这只是城市生活里常见的劳累与休息场景，不是生理超能力。",
+          "en": "It is just urban fatigue and rest, not a superhuman ability."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国人似乎进化了睡眠 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "地铁、咖啡店、教室里随时打盹的画面很常见，容易被外地人夸张成“睡眠进化”。",
+          "en": "Dozing off on subways, in cafes, or in classrooms is common enough that foreigners joke Koreans have evolved sleep."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这只是城市生活里常见的劳累与休息场景，不是生理超能力。",
+          "en": "It is just urban fatigue and rest, not a superhuman ability."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-007": {
+    "korean_original": "피부 진짜 좋다.",
+    "meaning_zh": "K-beauty、护肤习惯和医美可见度高，让很多外地人觉得韩国人皮肤普遍很好。",
+    "meaning_en": "K-beauty, skincare habits, and visible clinics make many foreigners feel Koreans generally have great skin.",
+    "reason_zh": "皮肤状态都很好 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这是平均印象，不是每个人都一样。",
+    "reason_en": "皮肤状态都很好 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is an average impression, not a statement about every person.",
+    "cover_zh": "피부\n皮肤状态都很好\nA还是B？",
+    "cover_en": "피부\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：皮肤状态都很好。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "K-beauty、护肤习惯和医美可见度高，让很多外地人觉得韩国人皮肤普遍很好。",
+          "en": "K-beauty, skincare habits, and visible clinics make many foreigners feel Koreans generally have great skin."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这是平均印象，不是每个人都一样。",
+          "en": "It is an average impression, not a statement about every person."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 皮肤状态都很好 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "K-beauty、护肤习惯和医美可见度高，让很多外地人觉得韩国人皮肤普遍很好。",
+          "en": "K-beauty, skincare habits, and visible clinics make many foreigners feel Koreans generally have great skin."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这是平均印象，不是每个人都一样。",
+          "en": "It is an average impression, not a statement about every person."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-008": {
+    "korean_original": "우산 누가 가져갔어?",
+    "meaning_zh": "雨季里雨伞被拿错或顺走，是很多外国人会反复吐槽的城市小麻烦。",
+    "meaning_en": "During rainy season, umbrellas getting taken by mistake or simply walked off with is a common city annoyance people mention.",
+    "reason_zh": "雨伞常被顺走 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这更像生活抱怨，不是对所有人的道德判决。",
+    "reason_en": "雨伞常被顺走 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is a daily-life complaint, not a moral judgment about everyone.",
+    "cover_zh": "우산 도난\n雨伞常被顺走\nA还是B？",
+    "cover_en": "우산 도난\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：雨伞常被顺走。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "雨季里雨伞被拿错或顺走，是很多外国人会反复吐槽的城市小麻烦。",
+          "en": "During rainy season, umbrellas getting taken by mistake or simply walked off with is a common city annoyance people mention."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这更像生活抱怨，不是对所有人的道德判决。",
+          "en": "It is a daily-life complaint, not a moral judgment about everyone."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 雨伞常被顺走 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "雨季里雨伞被拿错或顺走，是很多外国人会反复吐槽的城市小麻烦。",
+          "en": "During rainy season, umbrellas getting taken by mistake or simply walked off with is a common city annoyance people mention."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这更像生活抱怨，不是对所有人的道德判决。",
+          "en": "It is a daily-life complaint, not a moral judgment about everyone."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-013": {
+    "korean_original": "거리마다 커플이 많네.",
+    "meaning_zh": "在热门商圈和约会街区，街上情侣密度会让外地人觉得“哪里都是一对一对的”。",
+    "meaning_en": "In popular districts and date spots, the density of couples can make foreigners feel like there are pairs everywhere.",
+    "reason_zh": "路上有很多情侣 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这只是某些地点的视觉冲击，不代表单身者被排斥。",
+    "reason_en": "路上有很多情侣 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. That is a visual impression of certain areas, not evidence that singles are excluded.",
+    "cover_zh": "커플\n路上有很多情侣\nA还是B？",
+    "cover_en": "커플\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：路上有很多情侣。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "在热门商圈和约会街区，街上情侣密度会让外地人觉得“哪里都是一对一对的”。",
+          "en": "In popular districts and date spots, the density of couples can make foreigners feel like there are pairs everywhere."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这只是某些地点的视觉冲击，不代表单身者被排斥。",
+          "en": "That is a visual impression of certain areas, not evidence that singles are excluded."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 路上有很多情侣 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "在热门商圈和约会街区，街上情侣密度会让外地人觉得“哪里都是一对一对的”。",
+          "en": "In popular districts and date spots, the density of couples can make foreigners feel like there are pairs everywhere."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这只是某些地点的视觉冲击，不代表单身者被排斥。",
+          "en": "That is a visual impression of certain areas, not evidence that singles are excluded."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-014": {
+    "korean_original": "말이 너무 세다.",
+    "meaning_zh": "外网常把韩国女性回怼快、短、直接的说话风格形容得很锋利；这更像刻板印象，不是性别事实。",
+    "meaning_en": "Foreign internet culture often describes Korean women’s quick, direct comeback style as very sharp; that is a stereotype, not a gender fact.",
+    "reason_zh": "韩国女生说话很锋利 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不能把它写成所有韩国女生都这样。",
+    "reason_en": "韩国女生说话很锋利 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It cannot be written as if all Korean women talk that way.",
+    "cover_zh": "직설적 / 말이 세다\n韩国女生说话很锋利\nA还是B？",
+    "cover_en": "직설적 / 말이 세다\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国女生说话很锋利。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "外网常把韩国女性回怼快、短、直接的说话风格形容得很锋利；这更像刻板印象，不是性别事实。",
+          "en": "Foreign internet culture often describes Korean women’s quick, direct comeback style as very sharp; that is a stereotype, not a gender fact."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不能把它写成所有韩国女生都这样。",
+          "en": "It cannot be written as if all Korean women talk that way."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国女生说话很锋利 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "外网常把韩国女性回怼快、短、直接的说话风格形容得很锋利；这更像刻板印象，不是性别事实。",
+          "en": "Foreign internet culture often describes Korean women’s quick, direct comeback style as very sharp; that is a stereotype, not a gender fact."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不能把它写成所有韩国女生都这样。",
+          "en": "It cannot be written as if all Korean women talk that way."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-009": {
+    "korean_original": "젓가락을 밥에 꽂으면 안 돼.",
+    "meaning_zh": "把筷子插在饭里会联想到祭祀或不吉利的场景，所以会被视为失礼。",
+    "meaning_en": "Sticking chopsticks upright in rice suggests a memorial or unlucky scene, so it is seen as impolite.",
+    "reason_zh": "筷子不能插在碗里 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这属于餐桌禁忌，不是所有插法都一样。",
+    "reason_en": "筷子不能插在碗里 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is a table taboo; not every placement is read the same way.",
+    "cover_zh": "젓가락 / 밥\n筷子不能插在碗里\nA还是B？",
+    "cover_en": "젓가락 / 밥\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：筷子不能插在碗里。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "把筷子插在饭里会联想到祭祀或不吉利的场景，所以会被视为失礼。",
+          "en": "Sticking chopsticks upright in rice suggests a memorial or unlucky scene, so it is seen as impolite."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这属于餐桌禁忌，不是所有插法都一样。",
+          "en": "It is a table taboo; not every placement is read the same way."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 筷子不能插在碗里 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "把筷子插在饭里会联想到祭祀或不吉利的场景，所以会被视为失礼。",
+          "en": "Sticking chopsticks upright in rice suggests a memorial or unlucky scene, so it is seen as impolite."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这属于餐桌禁忌，不是所有插法都一样。",
+          "en": "It is a table taboo; not every placement is read the same way."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-010": {
+    "korean_original": "그릇 들고 먹으면 안 돼.",
+    "meaning_zh": "捧碗吃饭在部分韩国餐桌语境里会被认为不够讲究，所以外地人容易被提醒。",
+    "meaning_en": "Holding the bowl while eating can be seen as less refined in some Korean table manners, so foreigners may get corrected.",
+    "reason_zh": "不能捧着碗吃饭 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。家庭和朋友局的执行强度不一样。",
+    "reason_en": "不能捧着碗吃饭 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. The level of strictness varies by family and by casual setting.",
+    "cover_zh": "밥그릇\n不能捧着碗吃饭\nA还是B？",
+    "cover_en": "밥그릇\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：不能捧着碗吃饭。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "捧碗吃饭在部分韩国餐桌语境里会被认为不够讲究，所以外地人容易被提醒。",
+          "en": "Holding the bowl while eating can be seen as less refined in some Korean table manners, so foreigners may get corrected."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "家庭和朋友局的执行强度不一样。",
+          "en": "The level of strictness varies by family and by casual setting."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 不能捧着碗吃饭 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "捧碗吃饭在部分韩国餐桌语境里会被认为不够讲究，所以外地人容易被提醒。",
+          "en": "Holding the bowl while eating can be seen as less refined in some Korean table manners, so foreigners may get corrected."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "家庭和朋友局的执行强度不一样。",
+          "en": "The level of strictness varies by family and by casual setting."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-015": {
+    "korean_original": "내가 내 술을 내가 따르지?",
+    "meaning_zh": "在聚餐或酒局里，自斟自饮常被看作不够礼貌，很多人会互相倒酒。",
+    "meaning_en": "At group dinners or drinking rounds, pouring your own drink can seem impolite, so people often pour for one another.",
+    "reason_zh": "聚餐时不能自己给自己倒酒 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。年轻朋友局会松很多，不是每桌都这么严格。",
+    "reason_en": "聚餐时不能自己给自己倒酒 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Casual friend groups are much looser, so it is not strict at every table.",
+    "cover_zh": "술 따르기\n聚餐时不能自己给自己倒酒\nA还是B？",
+    "cover_en": "술 따르기\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：聚餐时不能自己给自己倒酒。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "在聚餐或酒局里，自斟自饮常被看作不够礼貌，很多人会互相倒酒。",
+          "en": "At group dinners or drinking rounds, pouring your own drink can seem impolite, so people often pour for one another."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "年轻朋友局会松很多，不是每桌都这么严格。",
+          "en": "Casual friend groups are much looser, so it is not strict at every table."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 聚餐时不能自己给自己倒酒 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "在聚餐或酒局里，自斟自饮常被看作不够礼貌，很多人会互相倒酒。",
+          "en": "At group dinners or drinking rounds, pouring your own drink can seem impolite, so people often pour for one another."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "年轻朋友局会松很多，不是每桌都这么严格。",
+          "en": "Casual friend groups are much looser, so it is not strict at every table."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-011": {
+    "korean_original": "현금 여기요.",
+    "meaning_zh": "把钱直接递到对方手里，在一些场合会比扔在柜台上更礼貌。",
+    "meaning_en": "Handing money directly to the other person can feel more polite than leaving it on the counter in some settings.",
+    "reason_zh": "结账要把钱递到手里 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。但刷卡、托盘和不同店家流程也很常见。",
+    "reason_en": "结账要把钱递到手里 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Card payments, trays, and different store procedures are also very common.",
+    "cover_zh": "계산 / 돈 건네기\n结账要把钱递到手里\nA还是B？",
+    "cover_en": "계산 / 돈 건네기\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：结账要把钱递到手里。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "把钱直接递到对方手里，在一些场合会比扔在柜台上更礼貌。",
+          "en": "Handing money directly to the other person can feel more polite than leaving it on the counter in some settings."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "但刷卡、托盘和不同店家流程也很常见。",
+          "en": "Card payments, trays, and different store procedures are also very common."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 结账要把钱递到手里 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "把钱直接递到对方手里，在一些场合会比扔在柜台上更礼貌。",
+          "en": "Handing money directly to the other person can feel more polite than leaving it on the counter in some settings."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "但刷卡、托盘和不同店家流程也很常见。",
+          "en": "Card payments, trays, and different store procedures are also very common."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-012": {
+    "korean_original": "이름을 빨간 펜으로 쓰지 마.",
+    "meaning_zh": "红笔写名字会让很多韩国人联想到死亡或不吉利，是很典型的民俗禁忌。",
+    "meaning_en": "Writing a person’s name in red ink can remind many Koreans of death or bad luck, so it is a classic taboo.",
+    "reason_zh": "不能用红笔写名字 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这是禁忌印象，不是法律，也不是每个年轻人都同样在意。",
+    "reason_en": "不能用红笔写名字 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is a taboo impression, not a law, and not every young person cares equally.",
+    "cover_zh": "빨간 펜\n不能用红笔写名字\nA还是B？",
+    "cover_en": "빨간 펜\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：不能用红笔写名字。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "红笔写名字会让很多韩国人联想到死亡或不吉利，是很典型的民俗禁忌。",
+          "en": "Writing a person’s name in red ink can remind many Koreans of death or bad luck, so it is a classic taboo."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这是禁忌印象，不是法律，也不是每个年轻人都同样在意。",
+          "en": "It is a taboo impression, not a law, and not every young person cares equally."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 不能用红笔写名字 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "红笔写名字会让很多韩国人联想到死亡或不吉利，是很典型的民俗禁忌。",
+          "en": "Writing a person’s name in red ink can remind many Koreans of death or bad luck, so it is a classic taboo."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这是禁忌印象，不是法律，也不是每个年轻人都同样在意。",
+          "en": "It is a taboo impression, not a law, and not every young person cares equally."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-013": {
+    "korean_original": "밤에 휘파람 불지 마.",
+    "meaning_zh": "晚上吹口哨常被长辈当成不吉利的老说法。",
+    "meaning_en": "Whistling at night is often treated by elders as an unlucky old saying.",
+    "reason_zh": "晚上不要吹口哨 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。它更像民俗提醒，不是现实中的硬规则。",
+    "reason_en": "晚上不要吹口哨 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is more a folk warning than a real-life hard rule.",
+    "cover_zh": "휘파람\n晚上不要吹口哨\nA还是B？",
+    "cover_en": "휘파람\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：晚上不要吹口哨。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "晚上吹口哨常被长辈当成不吉利的老说法。",
+          "en": "Whistling at night is often treated by elders as an unlucky old saying."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "它更像民俗提醒，不是现实中的硬规则。",
+          "en": "It is more a folk warning than a real-life hard rule."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 晚上不要吹口哨 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "晚上吹口哨常被长辈当成不吉利的老说法。",
+          "en": "Whistling at night is often treated by elders as an unlucky old saying."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "它更像民俗提醒，不是现实中的硬规则。",
+          "en": "It is more a folk warning than a real-life hard rule."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-014": {
+    "korean_original": "식당이 왜 이렇게 시끄러워?",
+    "meaning_zh": "很多韩国餐厅的聊天声量确实更大，外地人一进去会觉得很热闹甚至很吵。",
+    "meaning_en": "Many Korean restaurants really do have louder conversation volume, so foreigners often find them lively or even noisy.",
+    "reason_zh": "韩国餐厅很吵 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不是所有餐厅都这样，安静店和小店也很多。",
+    "reason_en": "韩国餐厅很吵 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Not every restaurant is like that; quiet places and small shops exist too.",
+    "cover_zh": "식당 소리\n韩国餐厅很吵\nA还是B？",
+    "cover_en": "식당 소리\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国餐厅很吵。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国餐厅的聊天声量确实更大，外地人一进去会觉得很热闹甚至很吵。",
+          "en": "Many Korean restaurants really do have louder conversation volume, so foreigners often find them lively or even noisy."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不是所有餐厅都这样，安静店和小店也很多。",
+          "en": "Not every restaurant is like that; quiet places and small shops exist too."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国餐厅很吵 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国餐厅的聊天声量确实更大，外地人一进去会觉得很热闹甚至很吵。",
+          "en": "Many Korean restaurants really do have louder conversation volume, so foreigners often find them lively or even noisy."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不是所有餐厅都这样，安静店和小店也很多。",
+          "en": "Not every restaurant is like that; quiet places and small shops exist too."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-015": {
+    "korean_original": "오늘 OOTD 뭐야?",
+    "meaning_zh": "在街头、咖啡店和地铁里，穿搭感很强的人很多，所以外地人容易形成“满大街都很会穿”的印象。",
+    "meaning_en": "On streets, in cafes, and on subways, many people look very put together, so foreigners easily think everyone is stylish.",
+    "reason_zh": "满街OOTD 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这是城市和商圈的视觉感受，不是每个人都时尚。",
+    "reason_en": "满街OOTD is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is a visual impression of cities and districts, not a claim about every person.",
+    "cover_zh": "OOTD\n满街OOTD\nA还是B？",
+    "cover_en": "OOTD\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：满街OOTD。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "在街头、咖啡店和地铁里，穿搭感很强的人很多，所以外地人容易形成“满大街都很会穿”的印象。",
+          "en": "On streets, in cafes, and on subways, many people look very put together, so foreigners easily think everyone is stylish."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这是城市和商圈的视觉感受，不是每个人都时尚。",
+          "en": "It is a visual impression of cities and districts, not a claim about every person."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 满街OOTD 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "在街头、咖啡店和地铁里，穿搭感很强的人很多，所以外地人容易形成“满大街都很会穿”的印象。",
+          "en": "On streets, in cafes, and on subways, many people look very put together, so foreigners easily think everyone is stylish."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这是城市和商圈的视觉感受，不是每个人都时尚。",
+          "en": "It is a visual impression of cities and districts, not a claim about every person."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-016": {
+    "korean_original": "비상벨이 어디야?",
+    "meaning_zh": "地铁、厕所、街角和部分公共设施里常能看到紧急按钮，让外地人觉得安全设施很密。",
+    "meaning_en": "Emergency buttons often appear in subways, bathrooms, street corners, and some public facilities, making safety infrastructure feel dense.",
+    "reason_zh": "到处都有紧急按钮 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。具体位置和配置会因地点不同而变化。",
+    "reason_en": "到处都有紧急按钮 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. The exact placement and setup vary by location.",
+    "cover_zh": "비상벨\n到处都有紧急按钮\nA还是B？",
+    "cover_en": "비상벨\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：到处都有紧急按钮。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "地铁、厕所、街角和部分公共设施里常能看到紧急按钮，让外地人觉得安全设施很密。",
+          "en": "Emergency buttons often appear in subways, bathrooms, street corners, and some public facilities, making safety infrastructure feel dense."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "具体位置和配置会因地点不同而变化。",
+          "en": "The exact placement and setup vary by location."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 到处都有紧急按钮 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "地铁、厕所、街角和部分公共设施里常能看到紧急按钮，让外地人觉得安全设施很密。",
+          "en": "Emergency buttons often appear in subways, bathrooms, street corners, and some public facilities, making safety infrastructure feel dense."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "具体位置和配置会因地点不同而变化。",
+          "en": "The exact placement and setup vary by location."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-016": {
+    "korean_original": "어른 앞에서 정면으로 마시면 안 돼.",
+    "meaning_zh": "和长辈或上司喝酒时，侧过身喝、双手接酒等礼仪会被看得比较重。",
+    "meaning_en": "When drinking with elders or bosses, etiquette like turning slightly away or receiving drinks with two hands matters more.",
+    "reason_zh": "不能对长辈正面喝酒 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。只在特定酒局语境里更明显，不是每次喝水都要这样。",
+    "reason_en": "不能对长辈正面喝酒 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. This matters mainly in drinking situations, not every time you drink water.",
+    "cover_zh": "어른 / 술자리\n不能对长辈正面喝酒\nA还是B？",
+    "cover_en": "어른 / 술자리\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：不能对长辈正面喝酒。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "和长辈或上司喝酒时，侧过身喝、双手接酒等礼仪会被看得比较重。",
+          "en": "When drinking with elders or bosses, etiquette like turning slightly away or receiving drinks with two hands matters more."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "只在特定酒局语境里更明显，不是每次喝水都要这样。",
+          "en": "This matters mainly in drinking situations, not every time you drink water."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 不能对长辈正面喝酒 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "和长辈或上司喝酒时，侧过身喝、双手接酒等礼仪会被看得比较重。",
+          "en": "When drinking with elders or bosses, etiquette like turning slightly away or receiving drinks with two hands matters more."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "只在特定酒局语境里更明显，不是每次喝水都要这样。",
+          "en": "This matters mainly in drinking situations, not every time you drink water."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-017": {
+    "korean_original": "집 들어갈 때 신발 벗어야 해.",
+    "meaning_zh": "进家门脱鞋、厕所放专用拖鞋，是很多韩国家庭很自然的室内习惯。",
+    "meaning_en": "Taking off shoes when entering home and keeping bathroom slippers are very normal indoor habits in many Korean households.",
+    "reason_zh": "进门脱鞋厕所穿专用拖鞋 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不同家庭和住处会有细节差异。",
+    "reason_en": "进门脱鞋厕所穿专用拖鞋 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Details vary by household and living arrangement.",
+    "cover_zh": "실내화 / 슬리퍼\n进门脱鞋厕所穿专用拖鞋\nA还是B？",
+    "cover_en": "실내화 / 슬리퍼\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：进门脱鞋厕所穿专用拖鞋。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "进家门脱鞋、厕所放专用拖鞋，是很多韩国家庭很自然的室内习惯。",
+          "en": "Taking off shoes when entering home and keeping bathroom slippers are very normal indoor habits in many Korean households."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不同家庭和住处会有细节差异。",
+          "en": "Details vary by household and living arrangement."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 进门脱鞋厕所穿专用拖鞋 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "进家门脱鞋、厕所放专用拖鞋，是很多韩国家庭很自然的室内习惯。",
+          "en": "Taking off shoes when entering home and keeping bathroom slippers are very normal indoor habits in many Korean households."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不同家庭和住处会有细节差异。",
+          "en": "Details vary by household and living arrangement."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-018": {
+    "korean_original": "팁 안 줘도 돼?",
+    "meaning_zh": "韩国消费场景里小费文化弱，很多人默认不需要额外给。",
+    "meaning_en": "Tipping culture is weak in Korean daily consumption, so many people assume no extra tip is needed.",
+    "reason_zh": "韩国基本没有小费文化 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。但高端酒店或特殊服务场景仍可能有例外。",
+    "reason_en": "韩国基本没有小费文化 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. High-end hotels or special service settings can still be exceptions.",
+    "cover_zh": "팁\n韩国基本没有小费文化\nA还是B？",
+    "cover_en": "팁\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国基本没有小费文化。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "韩国消费场景里小费文化弱，很多人默认不需要额外给。",
+          "en": "Tipping culture is weak in Korean daily consumption, so many people assume no extra tip is needed."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "但高端酒店或特殊服务场景仍可能有例外。",
+          "en": "High-end hotels or special service settings can still be exceptions."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国基本没有小费文化 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "韩国消费场景里小费文化弱，很多人默认不需要额外给。",
+          "en": "Tipping culture is weak in Korean daily consumption, so many people assume no extra tip is needed."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "但高端酒店或特殊服务场景仍可能有例外。",
+          "en": "High-end hotels or special service settings can still be exceptions."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-019": {
+    "korean_original": "카페에서 공부해도 돼?",
+    "meaning_zh": "很多韩国咖啡店既是喝咖啡的地方，也是学习、办公、聊天的临时基地。",
+    "meaning_en": "Many Korean cafes work as temporary bases for studying, working, and chatting, not just drinking coffee.",
+    "reason_zh": "咖啡店像自习室办公室 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不过每家店对长时间占座的容忍度不一样。",
+    "reason_en": "咖啡店像自习室办公室 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Each store has a different tolerance for long stays and seat occupation.",
+    "cover_zh": "카공\n咖啡店像自习室办公室\nA还是B？",
+    "cover_en": "카공\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：咖啡店像自习室办公室。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国咖啡店既是喝咖啡的地方，也是学习、办公、聊天的临时基地。",
+          "en": "Many Korean cafes work as temporary bases for studying, working, and chatting, not just drinking coffee."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不过每家店对长时间占座的容忍度不一样。",
+          "en": "Each store has a different tolerance for long stays and seat occupation."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 咖啡店像自习室办公室 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "很多韩国咖啡店既是喝咖啡的地方，也是学习、办公、聊天的临时基地。",
+          "en": "Many Korean cafes work as temporary bases for studying, working, and chatting, not just drinking coffee."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不过每家店对长时间占座的容忍度不一样。",
+          "en": "Each store has a different tolerance for long stays and seat occupation."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-020": {
+    "korean_original": "배달이 벌써 왔어?",
+    "meaning_zh": "韩国外卖给人的冲击常常是快、密、覆盖广，很多东西都能送。",
+    "meaning_en": "The big shock of Korean delivery culture is often how fast, dense, and broad it feels, with many things available for delivery.",
+    "reason_zh": "外卖快到离谱 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。速度和可送范围会受区域和平台影响。",
+    "reason_en": "外卖快到离谱 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Speed and delivery range still depend on area and platform.",
+    "cover_zh": "배달\n外卖快到离谱\nA还是B？",
+    "cover_en": "배달\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：外卖快到离谱。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "韩国外卖给人的冲击常常是快、密、覆盖广，很多东西都能送。",
+          "en": "The big shock of Korean delivery culture is often how fast, dense, and broad it feels, with many things available for delivery."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "速度和可送范围会受区域和平台影响。",
+          "en": "Speed and delivery range still depend on area and platform."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 外卖快到离谱 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "韩国外卖给人的冲击常常是快、密、覆盖广，很多东西都能送。",
+          "en": "The big shock of Korean delivery culture is often how fast, dense, and broad it feels, with many things available for delivery."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "速度和可送范围会受区域和平台影响。",
+          "en": "Speed and delivery range still depend on area and platform."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-021": {
+    "korean_original": "분리수거 이렇게까지 해?",
+    "meaning_zh": "垃圾分类、厨余和包装处理很细，外地人第一次接触时会觉得像考试。",
+    "meaning_en": "Waste sorting, food waste, and packaging disposal are so detailed that first-time foreigners can feel like they are taking an exam.",
+    "reason_zh": "垃圾分类严格 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不同城市和住区的规则会不同。",
+    "reason_en": "垃圾分类严格 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Rules differ by city and neighborhood.",
+    "cover_zh": "분리수거\n垃圾分类严格\nA还是B？",
+    "cover_en": "분리수거\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：垃圾分类严格。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "垃圾分类、厨余和包装处理很细，外地人第一次接触时会觉得像考试。",
+          "en": "Waste sorting, food waste, and packaging disposal are so detailed that first-time foreigners can feel like they are taking an exam."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不同城市和住区的规则会不同。",
+          "en": "Rules differ by city and neighborhood."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 垃圾分类严格 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "垃圾分类、厨余和包装处理很细，外地人第一次接触时会觉得像考试。",
+          "en": "Waste sorting, food waste, and packaging disposal are so detailed that first-time foreigners can feel like they are taking an exam."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不同城市和住区的规则会不同。",
+          "en": "Rules differ by city and neighborhood."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-022": {
+    "korean_original": "전세가 이렇게 비싸?",
+    "meaning_zh": "전세 让很多外地人第一次知道：韩国租房不一定是月租，而可能要先交一大笔押金。",
+    "meaning_en": "Jeonse makes many foreigners realize Korean renting is not always monthly rent; it can require a huge deposit upfront.",
+    "reason_zh": "租房巨额押金 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不是所有房子都用 전세，月세 也一直存在。",
+    "reason_en": "租房巨额押金 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Not every home uses jeonse; monthly rent still exists too.",
+    "cover_zh": "전세\n租房巨额押金\nA还是B？",
+    "cover_en": "전세\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：租房巨额押金。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "전세 让很多外地人第一次知道：韩国租房不一定是月租，而可能要先交一大笔押金。",
+          "en": "Jeonse makes many foreigners realize Korean renting is not always monthly rent; it can require a huge deposit upfront."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不是所有房子都用 전세，月세 也一直存在。",
+          "en": "Not every home uses jeonse; monthly rent still exists too."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 租房巨额押金 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "전세 让很多外地人第一次知道：韩国租房不一定是月租，而可能要先交一大笔押金。",
+          "en": "Jeonse makes many foreigners realize Korean renting is not always monthly rent; it can require a huge deposit upfront."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不是所有房子都用 전세，月세 也一直存在。",
+          "en": "Not every home uses jeonse; monthly rent still exists too."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-017": {
+    "korean_original": "MBTI 뭐야?",
+    "meaning_zh": "MBTI、血型常被当成很轻的社交开场白，像在快速给自己贴标签。",
+    "meaning_en": "MBTI and blood type are often used as light social openers, almost like quick personal labels.",
+    "reason_zh": "MBTI和血型像社交信息 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这更像聊天话题，不是科学定论。",
+    "reason_en": "MBTI和血型像社交信息 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. It is more of a chat topic than a scientific verdict.",
+    "cover_zh": "MBTI / 혈액형\nMBTI和血型像社交信息\nA还是B？",
+    "cover_en": "MBTI / 혈액형\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：MBTI和血型像社交信息。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "MBTI、血型常被当成很轻的社交开场白，像在快速给自己贴标签。",
+          "en": "MBTI and blood type are often used as light social openers, almost like quick personal labels."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这更像聊天话题，不是科学定论。",
+          "en": "It is more of a chat topic than a scientific verdict."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 MBTI和血型像社交信息 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "MBTI、血型常被当成很轻的社交开场白，像在快速给自己贴标签。",
+          "en": "MBTI and blood type are often used as light social openers, almost like quick personal labels."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这更像聊天话题，不是科学定论。",
+          "en": "It is more of a chat topic than a scientific verdict."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-023": {
+    "korean_original": "편의점에서 밥까지 해결해.",
+    "meaning_zh": "韩国便利店常常能直接解决一顿饭，给外地人的感觉像“买东西顺便吃饭”。",
+    "meaning_en": "Korean convenience stores can often solve a full meal, which makes them feel like a place where you shop and eat at the same time.",
+    "reason_zh": "便利店像半个餐厅 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。不同门店设施不一样，但餐食选项确实很强。",
+    "reason_en": "便利店像半个餐厅 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Facilities vary, but the food options really are strong.",
+    "cover_zh": "편의점\n便利店像半个餐厅\nA还是B？",
+    "cover_en": "편의점\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：便利店像半个餐厅。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "韩国便利店常常能直接解决一顿饭，给外地人的感觉像“买东西顺便吃饭”。",
+          "en": "Korean convenience stores can often solve a full meal, which makes them feel like a place where you shop and eat at the same time."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "不同门店设施不一样，但餐食选项确实很强。",
+          "en": "Facilities vary, but the food options really are strong."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 便利店像半个餐厅 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "韩国便利店常常能直接解决一顿饭，给外地人的感觉像“买东西顺便吃饭”。",
+          "en": "Korean convenience stores can often solve a full meal, which makes them feel like a place where you shop and eat at the same time."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "不同门店设施不一样，但餐食选项确实很强。",
+          "en": "Facilities vary, but the food options really are strong."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-024": {
+    "korean_original": "찜질방에서는 먼저 씻어야 해?",
+    "meaning_zh": "汗蒸房和澡堂文化里，先洗干净再进入公共区域是很基本的规则，很多地方还有分区和裸浴习惯。",
+    "meaning_en": "In jjimjilbang and bathhouse culture, washing first before entering public areas is basic, and many places also have zoning and nude-bath habits.",
+    "reason_zh": "汗蒸房澡堂先洗干净 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。裸浴通常是性别分区澡堂，不是所有汗蒸区都全裸。",
+    "reason_en": "汗蒸房澡堂先洗干净 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Nude bathing is usually in gender-segregated bathhouses, not in every jjimjilbang area.",
+    "cover_zh": "찜질방 / 목욕탕\n汗蒸房澡堂先洗干净\nA还是B？",
+    "cover_en": "찜질방 / 목욕탕\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：汗蒸房澡堂先洗干净。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "汗蒸房和澡堂文化里，先洗干净再进入公共区域是很基本的规则，很多地方还有分区和裸浴习惯。",
+          "en": "In jjimjilbang and bathhouse culture, washing first before entering public areas is basic, and many places also have zoning and nude-bath habits."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "裸浴通常是性别分区澡堂，不是所有汗蒸区都全裸。",
+          "en": "Nude bathing is usually in gender-segregated bathhouses, not in every jjimjilbang area."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 汗蒸房澡堂先洗干净 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "汗蒸房和澡堂文化里，先洗干净再进入公共区域是很基本的规则，很多地方还有分区和裸浴习惯。",
+          "en": "In jjimjilbang and bathhouse culture, washing first before entering public areas is basic, and many places also have zoning and nude-bath habits."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "裸浴通常是性别分区澡堂，不是所有汗蒸区都全裸。",
+          "en": "Nude bathing is usually in gender-segregated bathhouses, not in every jjimjilbang area."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-025": {
+    "korean_original": "카페가 편의점보다 많아?",
+    "meaning_zh": "一些商圈里咖啡店密度高到让外地人觉得“比便利店还多”。",
+    "meaning_en": "In some districts, cafe density is so high that foreigners feel there are more cafes than convenience stores.",
+    "reason_zh": "咖啡店比便利店多 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这是地区感受，不是全国每条街都如此。",
+    "reason_en": "咖啡店比便利店多 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. That is a district-level impression, not something true on every street in the country.",
+    "cover_zh": "카페 수\n咖啡店比便利店多\nA还是B？",
+    "cover_en": "카페 수\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：咖啡店比便利店多。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "一些商圈里咖啡店密度高到让外地人觉得“比便利店还多”。",
+          "en": "In some districts, cafe density is so high that foreigners feel there are more cafes than convenience stores."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这是地区感受，不是全国每条街都如此。",
+          "en": "That is a district-level impression, not something true on every street in the country."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 咖啡店比便利店多 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "一些商圈里咖啡店密度高到让外地人觉得“比便利店还多”。",
+          "en": "In some districts, cafe density is so high that foreigners feel there are more cafes than convenience stores."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这是地区感受，不是全国每条街都如此。",
+          "en": "That is a district-level impression, not something true on every street in the country."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-LIFE-026": {
+    "korean_original": "새벽 두 시인데도 사람이 많네.",
+    "meaning_zh": "夜生活商圈和24小时店让韩国很多地方到了凌晨还很热闹。",
+    "meaning_en": "Nightlife districts and 24-hour shops keep many Korean areas lively even at 2 a.m.",
+    "reason_zh": "凌晨两点街上还是很多人 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。这主要是特定城市和商圈，不是全国都一样。",
+    "reason_en": "凌晨两点街上还是很多人 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. This is mainly true for specific cities and districts, not everywhere in Korea.",
+    "cover_zh": "새벽 / 거리\n凌晨两点街上还是很多人\nA还是B？",
+    "cover_en": "새벽 / 거리\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：凌晨两点街上还是很多人。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "夜生活商圈和24小时店让韩国很多地方到了凌晨还很热闹。",
+          "en": "Nightlife districts and 24-hour shops keep many Korean areas lively even at 2 a.m."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "这主要是特定城市和商圈，不是全国都一样。",
+          "en": "This is mainly true for specific cities and districts, not everywhere in Korea."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 凌晨两点街上还是很多人 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "夜生活商圈和24小时店让韩国很多地方到了凌晨还很热闹。",
+          "en": "Nightlife districts and 24-hour shops keep many Korean areas lively even at 2 a.m."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "这主要是特定城市和商圈，不是全国都一样。",
+          "en": "This is mainly true for specific cities and districts, not everywhere in Korea."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-018": {
+    "korean_original": "2차 갈까? 3차 갈까?",
+    "meaning_zh": "회식 或朋友饭局里，吃完一轮再去第二轮第三轮，是很多人会提到的韩国聚餐文化。",
+    "meaning_en": "In hoesik or friend meals, going on to a second or third round after dinner is a familiar Korean dining culture.",
+    "reason_zh": "韩国聚餐有第二轮第三轮 是真实的韩国文化冲击点，但要按场景理解，不要写成所有韩国人都一样。但现在年轻人也越来越常直接散场，不是强制流程。",
+    "reason_en": "韩国聚餐有第二轮第三轮 is a real Korea-culture-shock point, but it has to be read in context and not written as if all Koreans are the same. Younger people increasingly just go home after the first round, so it is not mandatory.",
+    "cover_zh": "회식\n韩国聚餐有第二轮第三轮\nA还是B？",
+    "cover_en": "회식\nA or B?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我又听到有人说：韩国聚餐有第二轮第三轮。",
+          "en": "I keep hearing people mention this Korea thing."
+        },
+        {
+          "role": "对方",
+          "zh": "회식 或朋友饭局里，吃完一轮再去第二轮第三轮，是很多人会提到的韩国聚餐文化。",
+          "en": "In hoesik or friend meals, going on to a second or third round after dinner is a familiar Korean dining culture."
+        },
+        {
+          "role": "我",
+          "zh": "在美国这听起来很夸张。",
+          "en": "In the U.S., that sounds exaggerated."
+        },
+        {
+          "role": "对方",
+          "zh": "但现在年轻人也越来越常直接散场，不是强制流程。",
+          "en": "Younger people increasingly just go home after the first round, so it is not mandatory."
+        },
+        {
+          "role": "我",
+          "zh": "好，我记住了，不要把它写成全韩国统一规则。",
+          "en": "Got it. I won’t write it like a rule for all Koreans."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "所以 韩国聚餐有第二轮第三轮 不是传闻？",
+          "en": "So this is not just a rumor?"
+        },
+        {
+          "role": "对方",
+          "zh": "회식 或朋友饭局里，吃完一轮再去第二轮第三轮，是很多人会提到的韩国聚餐文化。",
+          "en": "In hoesik or friend meals, going on to a second or third round after dinner is a familiar Korean dining culture."
+        },
+        {
+          "role": "我",
+          "zh": "原来重点是场景，不是把一句话讲死。",
+          "en": "So the key is context, not an absolute rule."
+        },
+        {
+          "role": "对方",
+          "zh": "但现在年轻人也越来越常直接散场，不是强制流程。",
+          "en": "Younger people increasingly just go home after the first round, so it is not mandatory."
+        },
+        {
+          "role": "我",
+          "zh": "懂了，我以后按韩国语境记。",
+          "en": "Okay, I’ll remember it in Korean context."
+        }
+      ]
+    ]
+  },
+  "KR-SOCIAL-019": {
+    "korean_original": "칼답이네.",
+    "meaning_zh": "칼답指很快、像刀切一样干脆的回复；外国人容易把韩国聊天节奏理解成“大家都秒回”，但更稳的说法是部分关系和场景里回复压力更明显。",
+    "meaning_en": "칼답 refers to a very fast, sharp reply. Foreigners may read Korean texting as everyone replying instantly, but the safer point is that reply pressure can feel stronger in some relationships and contexts.",
+    "reason_zh": "这个点适合做异国网友时差聊天：美国女生被“秒回”吓到，韩国男生解释 칼답 是快回，不是韩国人永远在线。",
+    "reason_en": "This works well for long-distance time-zone texting: the American Korean learner is startled by instant replies, and the Korean guy explains 칼답 as quick replying, not Koreans being online forever.",
+    "cover_zh": "칼답\n秒回还是压力？",
+    "cover_en": "칼답\nQuick reply or pressure?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "你怎么又秒回？",
+          "en": "How did you reply instantly again?"
+        },
+        {
+          "role": "对方",
+          "zh": "这叫 칼답 ㅋㅋㅋ",
+          "en": "That is called kaldap lol."
+        },
+        {
+          "role": "我",
+          "zh": "听起来像韩国人都不用睡觉。",
+          "en": "It sounds like Koreans never sleep."
+        },
+        {
+          "role": "对方",
+          "zh": "不是。只是我刚好拿着手机。",
+          "en": "No. I just happened to have my phone."
+        },
+        {
+          "role": "我",
+          "zh": "所以 칼답 是秒回，不是超能力？",
+          "en": "So kaldap means a fast reply, not a superpower?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，也不是所有韩国人都这样。",
+          "en": "Right, and not all Koreans are like this."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我半夜发消息，你三秒后回。",
+          "en": "I texted at midnight, and you replied three seconds later."
+        },
+        {
+          "role": "对方",
+          "zh": "你那边半夜，我这边下午啊。",
+          "en": "It is midnight for you, but afternoon for me."
+        },
+        {
+          "role": "我",
+          "zh": "好吧，时差救了你的形象。",
+          "en": "Fine, the time difference saved your image."
+        },
+        {
+          "role": "对方",
+          "zh": "不过 칼답 这个词真的常用。",
+          "en": "But the word kaldap is really common."
+        },
+        {
+          "role": "我",
+          "zh": "那 읽씹 是反面吗？",
+          "en": "Is leaving someone on read the opposite?"
+        },
+        {
+          "role": "对方",
+          "zh": "差不多。快回和不回都会被拿来吐槽。",
+          "en": "Pretty much. Fast replies and no replies both get teased."
+        }
+      ]
+    ]
   }
 }

@@ -1947,5 +1947,101 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-009": {
+    "id": "KR-SOCIAL-009",
+    "korean_original": "썸 타다 / 썸타는 중",
+    "meaning_zh": "两个人互有好感、像在暧昧或准约会，但还没正式确认关系。",
+    "meaning_en": "Two people are mutually interested and in an ambiguous pre-relationship stage, but they have not officially defined the relationship.",
+    "reason_zh": "썸来自英语something，但韩语里已经变成恋爱语境的网络词；普通朋友聊天、时差消息或礼貌关心不自动算썸。",
+    "reason_en": "썸 comes from English “something,” but in Korean it became a dating slang term. Normal friend chat, time-zone messages, or polite care do not automatically count as 썸.",
+    "cover_zh": "썸 타다\n朋友还是暧昧？",
+    "cover_en": "썸 타다\nFriends or flirting?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我在韩剧字幕里看到썸타는 중。",
+          "en": "I saw 썸타는 중 in K-drama subtitles."
+        },
+        {
+          "role": "对方",
+          "zh": "哦，暧昧中。还没正式交往。",
+          "en": "Oh, in the flirting stage. Not officially dating yet."
+        },
+        {
+          "role": "我",
+          "zh": "等一下，썸不是英文some吗？",
+          "en": "Wait, isn't 썸 just English some?"
+        },
+        {
+          "role": "对方",
+          "zh": "来源有点像something，但韩语意思变了。",
+          "en": "It comes from something, kind of, but the Korean meaning changed."
+        },
+        {
+          "role": "我",
+          "zh": "所以不是“有一些中”？ㅋㅋㅋ",
+          "en": "So it is not “being in some”? ㅋㅋㅋ"
+        },
+        {
+          "role": "对方",
+          "zh": "不是。是朋友以上，恋人未满那种。",
+          "en": "No. It is more than friends, less than lovers."
+        },
+        {
+          "role": "我",
+          "zh": "那告白以后就不是썸了？",
+          "en": "Then after a confession, it is not 썸 anymore?"
+        },
+        {
+          "role": "对方",
+          "zh": "通常就变成사귀다。前提是对方答应。",
+          "en": "Usually it becomes 사귀다, if the other person says yes."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我们每天发消息，是不是叫썸？",
+          "en": "We message every day. Is that called 썸?"
+        },
+        {
+          "role": "对方",
+          "zh": "别乱扣帽子ㅋㅋㅋ 我们是时差网友。",
+          "en": "Do not label it randomly ㅋㅋㅋ We are time-zone internet friends."
+        },
+        {
+          "role": "我",
+          "zh": "但韩国短视频一直说썸타는 중。",
+          "en": "But Korean short videos keep saying 썸타는 중."
+        },
+        {
+          "role": "对方",
+          "zh": "那要有互相喜欢和暧昧信号。",
+          "en": "That needs mutual interest and flirting signals."
+        },
+        {
+          "role": "我",
+          "zh": "所以只是秒回不算？",
+          "en": "So replying fast does not count?"
+        },
+        {
+          "role": "对方",
+          "zh": "不算。你只是韩语作业太多。",
+          "en": "No. You just have too much Korean homework."
+        },
+        {
+          "role": "我",
+          "zh": "很残酷，但合理。",
+          "en": "Cruel, but fair."
+        },
+        {
+          "role": "对方",
+          "zh": "想写文案就写别人，不要写我们。",
+          "en": "If you make a script, write about other people, not us."
+        }
+      ]
+    ]
   }
 }

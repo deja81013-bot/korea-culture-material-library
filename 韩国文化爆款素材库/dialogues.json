@@ -4328,5 +4328,100 @@
         }
       ]
     ]
+  },
+  "KR-SOCIAL-020": {
+    "korean_original": "답정너",
+    "meaning_zh": "答案已经定好，你只要回答；常指问意见却只接受自己想听的夸奖或认同。",
+    "meaning_en": "The answer is already decided, so you just answer; it often describes asking for an opinion while accepting only the praise or validation already wanted.",
+    "reason_zh": "这个网络俗语把“认真征求意见”和“假装征求意见、其实只想听指定答案”的反差压缩在三个音节里。它带吐槽感，但不是所有反复确认都算답정너。",
+    "reason_en": "This internet slang compresses the contrast between genuinely asking for advice and pretending to ask while wanting one fixed answer. It is teasing, and repeated questions do not automatically count as 답정너.",
+    "cover_zh": "답정너\n问意见还是只想听夸奖？",
+    "cover_en": "답정너\nAdvice or praise?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我问个认真问题。这个发型适合我吗？",
+          "en": "Serious question. Does this hairstyle suit me?"
+        },
+        {
+          "role": "对方",
+          "zh": "你已经选好了吧。",
+          "en": "You already chose it, right?"
+        },
+        {
+          "role": "我",
+          "zh": "我只是想听你的意见。",
+          "en": "I just want your opinion."
+        },
+        {
+          "role": "对方",
+          "zh": "你想听的是“很好看”。",
+          "en": "You want to hear, “It looks great.”"
+        },
+        {
+          "role": "我",
+          "zh": "这叫求确认，不叫作弊。",
+          "en": "That is seeking confirmation, not cheating."
+        },
+        {
+          "role": "对方",
+          "zh": "韩语里有个词：답정너 ㅋㅋㅋ",
+          "en": "There is a Korean word for that: 답정너ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "等下，我问意见怎么变成网络罪名了？",
+          "en": "Wait, how did asking for an opinion become an internet offense?"
+        },
+        {
+          "role": "对方",
+          "zh": "因为你拒绝了“不适合”这个选项。",
+          "en": "Because you rejected the “it does not suit you” option."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "黑色还是白色？快选。",
+          "en": "Black or white? Pick quickly."
+        },
+        {
+          "role": "对方",
+          "zh": "你其实已经选黑色了。",
+          "en": "You already picked black."
+        },
+        {
+          "role": "我",
+          "zh": "我只是想确认你同意我。",
+          "en": "I just want to confirm that you agree with me."
+        },
+        {
+          "role": "对方",
+          "zh": "那就别伪装成投票。",
+          "en": "Then do not disguise it as a vote."
+        },
+        {
+          "role": "我",
+          "zh": "好吧，黑色更好看，对吧？",
+          "en": "Fine. Black looks better, right?"
+        },
+        {
+          "role": "对方",
+          "zh": "现在听起来更像답정너了。",
+          "en": "Now it really sounds like 답정너."
+        },
+        {
+          "role": "我",
+          "zh": "这个词是吐槽，还是正式诊断？",
+          "en": "Is that word teasing, or an official diagnosis?"
+        },
+        {
+          "role": "对方",
+          "zh": "只是吐槽。你真想听建议时，我会认真说。",
+          "en": "Just teasing. When you really want advice, I will give it seriously."
+        }
+      ]
+    ]
   }
 }

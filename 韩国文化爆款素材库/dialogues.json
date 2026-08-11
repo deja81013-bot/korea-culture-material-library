@@ -4423,5 +4423,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-013": {
+    "korean_original": "바람 / 바람피우다 / 바람맞다",
+    "meaning_zh": "바람是风；但바람피우다可表示出轨，바람맞다可表示被放鸽子。",
+    "meaning_en": "바람 means wind, but 바람피우다 can mean to cheat, and 바람맞다 can mean to get stood up.",
+    "reason_zh": "误会来自同一个바람搭配不同动词后语义跳得很远。想说出去透气要用바람 쐬다；恋爱关系里바람피우다才是出轨，不是所有바람都敏感。",
+    "reason_en": "The confusion comes from the same 바람 changing meaning with different verbs. For getting fresh air, use 바람 쐬다; 바람피우다 means cheating in a relationship context, not every 바람 is sensitive.",
+    "cover_zh": "바람\n吹风还是出轨？",
+    "cover_en": "바람\nWind or cheating?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我想发一句韩语动态。",
+          "en": "I want to post one sentence in Korean."
+        },
+        {
+          "role": "我",
+          "zh": "오늘 바람 피우고 싶어.",
+          "en": "오늘 바람 피우고 싶어."
+        },
+        {
+          "role": "对方",
+          "zh": "停。你刚刚说你想出轨。",
+          "en": "Stop. You just said you want to cheat."
+        },
+        {
+          "role": "我",
+          "zh": "不是吧。我只是想出去吹风。",
+          "en": "No way. I just want to get some fresh air."
+        },
+        {
+          "role": "对方",
+          "zh": "那要说 바람 쐬고 싶어.",
+          "en": "Then say 바람 쐬고 싶어."
+        },
+        {
+          "role": "我",
+          "zh": "同一个风，怎么突然这么危险？",
+          "en": "Same wind, how did it get so dangerous?"
+        },
+        {
+          "role": "对方",
+          "zh": "动词换了，意思也换了。",
+          "en": "The verb changed, so the meaning changed."
+        },
+        {
+          "role": "我",
+          "zh": "韩语天气预报好刺激。",
+          "en": "Korean weather reports are intense."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我看到一句：바람을 맞았어.",
+          "en": "I saw this sentence: 바람을 맞았어."
+        },
+        {
+          "role": "我",
+          "zh": "是被风打了吗？",
+          "en": "Did someone get hit by the wind?"
+        },
+        {
+          "role": "对方",
+          "zh": "约定语境里，是被放鸽子。",
+          "en": "In an appointment context, it means getting stood up."
+        },
+        {
+          "role": "我",
+          "zh": "那 바람피웠어 呢？",
+          "en": "Then what about 바람피웠어?"
+        },
+        {
+          "role": "对方",
+          "zh": "那个是出轨。不要混。",
+          "en": "That means cheated. Do not mix them up."
+        },
+        {
+          "role": "我",
+          "zh": "风、放鸽子、出轨，全靠动词？",
+          "en": "Wind, stood up, cheating, all from the verb?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，还要看是不是约定或恋爱语境。",
+          "en": "Yes, and whether it is an appointment or relationship context."
+        },
+        {
+          "role": "我",
+          "zh": "我先把바람 쐬다背熟，比较安全。",
+          "en": "I will memorize 바람 쐬다 first. Safer."
+        }
+      ]
+    ]
   }
 }

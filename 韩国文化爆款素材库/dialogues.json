@@ -4518,5 +4518,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-014": {
+    "korean_original": "국물이 시원하다",
+    "meaning_zh": "汤很爽口、喝着很通，不是汤很冷。",
+    "meaning_en": "The broth feels refreshing or relieving, not that it is cold.",
+    "reason_zh": "시원하다既可指凉爽，也可指身体或心情舒畅；热汤语境常是后者。",
+    "reason_en": "시원하다 can describe coolness, but also relief or refreshment; hot soup usually uses the second meaning.",
+    "cover_zh": "시원하다\n冷汤还是热汤？",
+    "cover_en": "시원하다\nCold soup or hot soup?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到有人喝热汤说 국물이 시원하다.",
+          "en": "I saw someone drink hot soup and say 국물이 시원하다."
+        },
+        {
+          "role": "对方",
+          "zh": "对，很正常。",
+          "en": "Yes, that is normal."
+        },
+        {
+          "role": "我",
+          "zh": "等等，热汤怎么是凉的？",
+          "en": "Wait, how is hot soup cool?"
+        },
+        {
+          "role": "对方",
+          "zh": "这里不是冷，是喝完很爽、很通。",
+          "en": "Here it is not cold. It means refreshing and relieving."
+        },
+        {
+          "role": "我",
+          "zh": "所以我的词典背叛我了？",
+          "en": "So my dictionary betrayed me?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有，你只看了第一个意思ㅋㅋㅋ",
+          "en": "No, you only read the first meaningㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "那冰水也可以说 시원하다？",
+          "en": "Then can ice water also be 시원하다?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以。一个词，两个方向，看语境。",
+          "en": "Yes. One word, two directions, depending on context."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我差点写 이 라면 차가워요.",
+          "en": "I almost wrote 이 라면 차가워요."
+        },
+        {
+          "role": "对方",
+          "zh": "为什么？你的拉面是冷的吗？",
+          "en": "Why? Is your ramen cold?"
+        },
+        {
+          "role": "我",
+          "zh": "不是。韩国人不是说汤 시원하다 吗？",
+          "en": "No. Koreans say soup is 시원하다, right?"
+        },
+        {
+          "role": "对方",
+          "zh": "那不等于 차갑다.",
+          "en": "That does not mean 차갑다."
+        },
+        {
+          "role": "我",
+          "zh": "韩语把热汤夸成空调？",
+          "en": "Korean praises hot soup like an air conditioner?"
+        },
+        {
+          "role": "对方",
+          "zh": "差不多，胃里的空调ㅋㅋㅋ",
+          "en": "Kind of. An air conditioner for your stomachㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "那我写 국물이 시원해요 可以？",
+          "en": "Then can I write 국물이 시원해요?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以，尤其汤味清爽、喝完舒服的时候。",
+          "en": "Yes, especially when the broth tastes clean and feels good after drinking."
+        }
+      ]
+    ]
   }
 }

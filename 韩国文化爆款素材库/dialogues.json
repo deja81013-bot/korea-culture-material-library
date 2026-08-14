@@ -4613,5 +4613,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-015": {
+    "korean_original": "미역국 먹었어",
+    "meaning_zh": "可以是“吃了海带汤”；在考试、升职或选拔语境里也可表示“落榜/失败了”。",
+    "meaning_en": "It can mean “ate seaweed soup”; in exam, promotion, or selection contexts it can also mean “failed” or “did not get in.”",
+    "reason_zh": "미역국是韩国生日汤，但미역국(을) 먹다也是表示考试或选拔失败的惯用表达。生日、饮食语境里不要误会成坏消息；考试语境里也不要说成真的吃汤导致失败。",
+    "reason_en": "미역국 is Korean birthday soup, but 미역국(을) 먹다 is also an idiom for failing an exam or selection. In birthday or food contexts, do not read it as bad news; in exam contexts, do not claim the soup caused the failure.",
+    "cover_zh": "미역국\n生日汤还是落榜？",
+    "cover_en": "미역국\nBirthday soup or exam fail?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我看到一句 미역국 먹었어.",
+          "en": "I saw the sentence 미역국 먹었어."
+        },
+        {
+          "role": "对方",
+          "zh": "看语境。可能只是吃了海带汤。",
+          "en": "Depends on context. It may just mean ate seaweed soup."
+        },
+        {
+          "role": "我",
+          "zh": "可是评论都在说考试完蛋了。",
+          "en": "But the comments were saying the exam was over."
+        },
+        {
+          "role": "对方",
+          "zh": "那就是惯用表达，意思是落榜了。",
+          "en": "Then it is the idiom. It means failed or did not get in."
+        },
+        {
+          "role": "我",
+          "zh": "生日汤怎么突然变成坏消息？",
+          "en": "How did birthday soup become bad news?"
+        },
+        {
+          "role": "对方",
+          "zh": "因为海带很滑。像从名单上滑下去ㅋㅋㅋ",
+          "en": "Because seaweed is slippery. Like slipping off the listㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "所以不是汤的问题，是语境的问题。",
+          "en": "So it is not the soup. It is the context."
+        },
+        {
+          "role": "对方",
+          "zh": "对。生日吃没事，考试前别乱开这个玩笑。",
+          "en": "Right. Eating it on your birthday is fine; just do not joke with it before an exam."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我想祝你生日快乐：미역국 먹었어?",
+          "en": "I want to say happy birthday: 미역국 먹었어?"
+        },
+        {
+          "role": "对方",
+          "zh": "生日语境可以，很自然。",
+          "en": "In a birthday context, yes. Very natural."
+        },
+        {
+          "role": "我",
+          "zh": "那考试后我也能问这个吗？",
+          "en": "Then can I ask that after an exam too?"
+        },
+        {
+          "role": "对方",
+          "zh": "别乱问ㅋㅋㅋ 听起来像“你落榜了吗？”",
+          "en": "Do not ask randomlyㅋㅋㅋ It can sound like “Did you fail?”"
+        },
+        {
+          "role": "我",
+          "zh": "同一句话，生日是关心，考试是攻击？",
+          "en": "Same sentence, birthday is caring, exam is an attack?"
+        },
+        {
+          "role": "对方",
+          "zh": "差不多。韩语很看场面。",
+          "en": "Pretty much. Korean really depends on the situation."
+        },
+        {
+          "role": "我",
+          "zh": "那我加 birthday context，保命。",
+          "en": "Then I will add birthday context. Safer."
+        },
+        {
+          "role": "对方",
+          "zh": "对，说 생일이라서 미역국 먹었어? 就清楚。",
+          "en": "Yes. Say 생일이라서 미역국 먹었어? and it is clear."
+        }
+      ]
+    ]
   }
 }

@@ -4708,5 +4708,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-016": {
+    "korean_original": "현타 왔어",
+    "meaning_zh": "现实感突然袭来；从期待或沉浸里清醒后感到空虚、无力或被现实打脸。",
+    "meaning_en": "Reality suddenly hit; after being absorbed in expectations or fantasy, you feel sobered, empty, or helpless.",
+    "reason_zh": "현타常解释为현실 자각 타임的缩写。它和현자타임的旧网络来源有关系，所以有些解释会提到成人语境；但现代日常使用多是广义的“现实打脸/突然清醒”。不能把所有현타都当成人双关。",
+    "reason_en": "현타 is commonly explained as short for 현실 자각 타임. It is connected to the older internet term 현자타임, so some explanations mention an adult-origin context; modern everyday usage is usually the generalized “reality hit” meaning. Do not treat every 현타 as an adult double meaning.",
+    "cover_zh": "현타\n现实打脸还是贤者时间？",
+    "cover_en": "현타\nReality hit or sage time?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "我刚看到 현타 왔어。",
+          "en": "I just saw 현타 왔어."
+        },
+        {
+          "role": "对方",
+          "zh": "哦，现实打脸来了。",
+          "en": "Oh, reality hit."
+        },
+        {
+          "role": "我",
+          "zh": "等等，我查到贤者时间。这个能随便说吗？",
+          "en": "Wait, I looked it up and saw sage time. Can I say this casually?"
+        },
+        {
+          "role": "对方",
+          "zh": "可以，但别乱解释成成人梗。",
+          "en": "You can, but do not explain it randomly as an adult joke."
+        },
+        {
+          "role": "我",
+          "zh": "那它到底是什么意思？",
+          "en": "Then what does it actually mean?"
+        },
+        {
+          "role": "对方",
+          "zh": "比如追剧十小时后想起作业。현타 온다ㅋㅋㅋ",
+          "en": "Like after ten hours of drama watching, you remember homework. 현타 온다ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "所以是梦醒了，不是我变哲学家。",
+          "en": "So the dream is over. I did not become a philosopher."
+        },
+        {
+          "role": "对方",
+          "zh": "对。突然清醒，还很空。",
+          "en": "Right. Suddenly sober, and kind of empty."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我今天有点 현타。",
+          "en": "I had a bit of 현타 today."
+        },
+        {
+          "role": "对方",
+          "zh": "你用得还挺自然。发生什么了？",
+          "en": "That sounds pretty natural. What happened?"
+        },
+        {
+          "role": "我",
+          "zh": "我看完韩语笔记，以为自己进步了。",
+          "en": "I finished my Korean notes and thought I improved."
+        },
+        {
+          "role": "对方",
+          "zh": "然后？",
+          "en": "And then?"
+        },
+        {
+          "role": "我",
+          "zh": "打开韩剧，一句都没听懂。",
+          "en": "I opened a K-drama and understood nothing."
+        },
+        {
+          "role": "对方",
+          "zh": "啊，这就是标准 현타ㅋㅋㅋ",
+          "en": "Ah, that is textbook 현타ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "不是脏话吧？我不想误伤自己。",
+          "en": "It is not a swear word, right? I do not want to accidentally roast myself."
+        },
+        {
+          "role": "对方",
+          "zh": "不是。朋友间说没问题，只是有点自嘲。",
+          "en": "No. It is fine among friends, just a little self-mocking."
+        }
+      ]
+    ]
   }
 }

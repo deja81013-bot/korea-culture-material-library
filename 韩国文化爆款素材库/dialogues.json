@@ -4803,5 +4803,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-017": {
+    "korean_original": "킹받네",
+    "meaning_zh": "真让人生气；真让人来气。",
+    "meaning_en": "That is really getting on my nerves; I am seriously annoyed.",
+    "reason_zh": "킹받다는把열받다里的“열”换成“킹”造出的网络新语。词典核心义是很生气或激动；在熟人聊天里可用于夸张吐槽，但不是“king”的夸奖，也不适合所有正式或真实冲突场合。",
+    "reason_en": "킹받다 is internet slang made by swapping 열 in 열받다 for 킹. Its dictionary meaning is becoming very angry or worked up. Friends may use it as exaggerated complaining, but it is not praise meaning “king,” and it is not right for every formal or real-conflict situation.",
+    "cover_zh": "킹받네\n国王还是气炸？",
+    "cover_en": "킹받네\nKing or furious?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "你刚回我“킹받네”。是在夸我像国王吗？",
+          "en": "You just replied 킹받네. Are you saying I am like a king?"
+        },
+        {
+          "role": "对方",
+          "zh": "完全不是ㅋㅋㅋ 是我有点来气。",
+          "en": "Not at allㅋㅋㅋ It means I am a little annoyed."
+        },
+        {
+          "role": "我",
+          "zh": "可里面有 킹。",
+          "en": "But it has 킹 in it."
+        },
+        {
+          "role": "对方",
+          "zh": "它其实是从 열받다 变来的。",
+          "en": "It actually comes from 열받다."
+        },
+        {
+          "role": "我",
+          "zh": "所以不是“你很厉害”，是“你让我生气”？",
+          "en": "So it is not “you are awesome,” but “you are annoying me”?"
+        },
+        {
+          "role": "对方",
+          "zh": "对，强一点的吐槽。",
+          "en": "Right, a stronger kind of complaint."
+        },
+        {
+          "role": "我",
+          "zh": "那我以后别对老师说了。",
+          "en": "Then I should not say it to my teacher."
+        },
+        {
+          "role": "对方",
+          "zh": "拜托别。朋友聊天才比较安全。",
+          "en": "Please do not. It is much safer in friend chat."
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我这边凌晨了，网又卡住。",
+          "en": "It is past midnight here, and my internet froze again."
+        },
+        {
+          "role": "对方",
+          "zh": "哇，那真的 킹받네。",
+          "en": "Wow, that is really 킹받네."
+        },
+        {
+          "role": "我",
+          "zh": "这次我懂了。不是在说国王。",
+          "en": "This time I get it. You are not talking about a king."
+        },
+        {
+          "role": "对方",
+          "zh": "进步很快ㅋㅋㅋ",
+          "en": "You are improving fastㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "它像“太烦了”，对吗？",
+          "en": "It is like “this is so annoying,” right?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。小事上夸张吐槽很自然。",
+          "en": "Yes. It sounds natural as exaggerated complaining about a small thing."
+        },
+        {
+          "role": "我",
+          "zh": "但要是真跟谁吵架呢？",
+          "en": "But what if I am actually fighting with someone?"
+        },
+        {
+          "role": "对方",
+          "zh": "那别用梗了。直接冷静说原因。",
+          "en": "Then do not use slang. Just calmly say why."
+        }
+      ]
+    ]
   }
 }

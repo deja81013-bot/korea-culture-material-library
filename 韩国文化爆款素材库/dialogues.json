@@ -4898,5 +4898,100 @@
         }
       ]
     ]
+  },
+  "KR-LANG-018": {
+    "korean_original": "대박 / 대박이야",
+    "meaning_zh": "太绝了；太夸张了；也可以指大成功、中大奖或意外的大收获。",
+    "meaning_en": "Amazing; that is huge; it can also refer to a big success, jackpot, or unexpected gain.",
+    "reason_zh": "대박既可以描述大成功或中大奖，也可以在现代口语里直接当感叹词，表示“太棒了、绝了、真的假的”。看到대박이야时不能自动理解成对方发财；要看它是在讲结果，还是在对眼前内容即时反应。",
+    "reason_en": "대박 can describe a huge success or jackpot, but in modern spoken Korean it also works as an exclamation meaning “amazing,” “that is huge,” or “no way.” Do not assume 대박이야 means someone got rich; check whether it describes an outcome or reacts to something in front of the speaker.",
+    "cover_zh": "대박\n头奖还是太绝了？",
+    "cover_en": "대박\nJackpot or amazing?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "你刚发“대박”。中彩票了吗？",
+          "en": "You just sent 대박. Did you win the lottery?"
+        },
+        {
+          "role": "对方",
+          "zh": "没有ㅋㅋㅋ 我只是看到一张很漂亮的照片。",
+          "en": "Noㅋㅋㅋ I just saw a really beautiful photo."
+        },
+        {
+          "role": "我",
+          "zh": "所以它不是“头奖”？",
+          "en": "So it does not mean “jackpot”?"
+        },
+        {
+          "role": "对方",
+          "zh": "也可以是，但聊天里常常是“太绝了”。",
+          "en": "It can mean that, but in chat it often means “that is amazing.”"
+        },
+        {
+          "role": "我",
+          "zh": "那“대박이야”就是“这张照片中大奖”？",
+          "en": "Then does 대박이야 mean “this photo won the jackpot”?"
+        },
+        {
+          "role": "对方",
+          "zh": "不是。是“这张照片太绝了”。",
+          "en": "No. It means “this photo is amazing.”"
+        },
+        {
+          "role": "我",
+          "zh": "韩语也太会省略上下文了。",
+          "en": "Korean really loves making context do all the work."
+        },
+        {
+          "role": "对方",
+          "zh": "欢迎来到口语世界ㅋㅋㅋ",
+          "en": "Welcome to spoken languageㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我刚看到考试成绩。대박。",
+          "en": "I just saw my exam result. 대박."
+        },
+        {
+          "role": "对方",
+          "zh": "等一下。你是考得好，还是吓到了？",
+          "en": "Wait. Did you do well, or were you shocked?"
+        },
+        {
+          "role": "我",
+          "zh": "两种都可能？",
+          "en": "Could it be either?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。语气能表示惊喜，也能表示“这也太离谱了”。",
+          "en": "Yes. The tone can show excitement, or mean “this is unbelievable.”"
+        },
+        {
+          "role": "我",
+          "zh": "所以我不能只看字典里的jackpot。",
+          "en": "So I cannot rely only on the dictionary word “jackpot.”"
+        },
+        {
+          "role": "对方",
+          "zh": "对。大成功、惊叹、夸张反应，都可能是대박。",
+          "en": "Right. Big success, admiration, or an exaggerated reaction can all be 대박."
+        },
+        {
+          "role": "我",
+          "zh": "那我给你发我的新发型：대박？",
+          "en": "Then I will send you my new haircut: 대박?"
+        },
+        {
+          "role": "对方",
+          "zh": "先别急着要答案ㅋㅋㅋ",
+          "en": "Do not rush me for an answerㅋㅋㅋ"
+        }
+      ]
+    ]
   }
 }

@@ -4993,5 +4993,100 @@
         }
       ]
     ]
+  },
+  "KR-MEME-003": {
+    "korean_original": "내로남불 / 내가 하면 로맨스, 남이 하면 불륜",
+    "meaning_zh": "我做是浪漫，别人做是不伦；指对自己和别人使用双重标准。",
+    "meaning_en": "Romance when I do it, an affair when you do it; it describes a double standard.",
+    "reason_zh": "내로남불是“내가 하면 로맨스, 남이 하면 불륜”的缩写，常用于吐槽一个人对相同或相近行为对己宽、对人严。它是网络和社会讽刺标签，不是韩国人的普遍性格。时差、工作、健康或安全等真实理由可以解释行为差异，不能只因为结果相似就直接贴标签。",
+    "reason_en": "내로남불 shortens “내가 하면 로맨스, 남이 하면 불륜.” It mocks someone who uses a softer standard for themselves and a harsher one for similar behavior by others. It is an internet and social-satire label, not a claim about Koreans as a whole. Real reasons such as time zones, work, health, or safety can explain different behavior; similar outcomes alone do not prove a double standard.",
+    "cover_zh": "내로남불\n我做是浪漫，别人做是不伦？",
+    "cover_en": "내로남불\nRomance for me, affair for you?",
+    "variants": [
+      [
+        {
+          "role": "我",
+          "zh": "你昨晚还劝我别熬夜。",
+          "en": "You told me not to stay up late last night."
+        },
+        {
+          "role": "对方",
+          "zh": "对，因为你今天要早起。",
+          "en": "Right, because you had to get up early today."
+        },
+        {
+          "role": "我",
+          "zh": "然后我凌晨一点又给你发了三条消息。",
+          "en": "Then I sent you three messages at 1 a.m."
+        },
+        {
+          "role": "对方",
+          "zh": "所以现在是谁在내로남불？ㅋㅋㅋ",
+          "en": "So who is doing 내로남불 now?ㅋㅋㅋ"
+        },
+        {
+          "role": "我",
+          "zh": "我这是有时差，不是双标。",
+          "en": "I have a time difference. That is not a double standard."
+        },
+        {
+          "role": "对方",
+          "zh": "时差能解释晚回，不能解释你叫我先睡。",
+          "en": "It can explain a late reply, but not you telling me to sleep first."
+        },
+        {
+          "role": "我",
+          "zh": "哦，所以合理解释不等于免死金牌。",
+          "en": "Oh, so a real reason is not a magic shield."
+        },
+        {
+          "role": "对方",
+          "zh": "恭喜，你刚学会一个很实用的词ㅋㅋㅋ",
+          "en": "Congrats, you just learned a very useful wordㅋㅋㅋ"
+        }
+      ],
+      [
+        {
+          "role": "我",
+          "zh": "我觉得别人半天不回消息很失礼。",
+          "en": "I think it is rude when someone takes half a day to reply."
+        },
+        {
+          "role": "对方",
+          "zh": "你上周也隔了八小时才回我。",
+          "en": "You also took eight hours to reply last week."
+        },
+        {
+          "role": "我",
+          "zh": "那是我在工作，不是故意的。",
+          "en": "I was working. It was not on purpose."
+        },
+        {
+          "role": "对方",
+          "zh": "那就要看你会不会给别人同样的解释。",
+          "en": "Then it depends on whether you give others the same explanation."
+        },
+        {
+          "role": "我",
+          "zh": "所以我不一定是내로남불？",
+          "en": "So I am not automatically 내로남불?"
+        },
+        {
+          "role": "对方",
+          "zh": "对。理由相同，标准也要相同。",
+          "en": "Right. If the reason is comparable, the standard should be comparable too."
+        },
+        {
+          "role": "我",
+          "zh": "好，我先查证，再开骂。",
+          "en": "Okay, I will check the context before I complain."
+        },
+        {
+          "role": "对方",
+          "zh": "成长了ㅋㅋㅋ",
+          "en": "You are growingㅋㅋㅋ"
+        }
+      ]
+    ]
   }
 }
